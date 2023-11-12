@@ -18,7 +18,7 @@ def get_trees(btree_file, dtree_file):
     trees = []; dtrees = parse_tree(dtree_file.read())
 
     for i in range(len(instances)):
-        trees.append((BTree(instances[i]), dtrees[i]))
+        trees.append(BTree(instances[i], dtrees[i]))
     return trees
 
 # === END OF .BINARIZED FILES PARSING ===
@@ -39,6 +39,6 @@ if __name__ == "__main__":
             fout = open(out_path + filename.rstrip("binarized") + "ccg", "w", encoding="utf8")
 
             trees = get_trees(btree_fin, dtree_fin)
-            for btree, dtree in trees: fout.write(converter.convert(btree, dtree))
+            for tree in trees: fout.write(converter.convert(tree).to_string())
 
             print("done!")

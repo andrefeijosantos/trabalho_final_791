@@ -1,18 +1,12 @@
 class Node:
-    def __init__(self):
+    def __init__(self, deprel=None, token=None, upos=None):
         self.children = [None, None]
-
         self.parent = None
-    
-class DepRelNode(Node):
-    def __init__(self, deprel=None):
-        super().__init__()
 
+        # UD specific stuff
         self.deprel = deprel
-
-class WordNode(Node):
-    def __init__(self, word=None, upos=None):
-        super().__init__()
-
-        self.word = word
         self.upos = upos
+        self.token = token
+
+        # CCG specific stuff
+        self.category = None

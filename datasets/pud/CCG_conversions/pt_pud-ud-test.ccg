@@ -1,0 +1,8209 @@
+# sent_id = n01001011
+# text = “Embora uma grande parte da transição digital nos Estados Unidos seja sem precedentes, a transição pacífica de poder não o é,” escreveu Kori Schulman, assistente especial de Obama, numa publicação no blog, na segunda-feira.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+											None
+												None
+
+# sent_id = n01001013
+# text = Para aqueles que seguem as transições das redes sociais no Capitol Hill, esta será um pouco diferente.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n01002017
+# text = Mas numa pausa da sua retórica passada acerca da restrição da imigração, o nomeado do GOP anunciou que, como presidente, ele iria permitir "números tremendos" de imigrantes legais, baseado num "sistema de mérito".
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01002032
+# text = “Então, eu odeio pôr um pouco de pressão em vocês, mas o destino da república está nos seus ombros”, disse ele à multidão reunida num campo esportivo da Universidade de Carolina do Norte.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01002042
+# text = Os novos gastos são alimentados pela grande conta bancária de Clinton.
+S
+	None
+		None
+			None
+
+# sent_id = n01002058
+# text = O que ela está dizendo e o que ela está fazendo, na verdade, é inacreditável.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01003007
+# text = $5,000 por pessoa, o máximo permitido.
+NP
+	None
+		None
+			None
+
+# sent_id = n01003010
+# text = No início de outubro, a equipe de transição utilizou o mesmo local para se encontrar com os lobistas, convidando os representantes da Uber, da Motion Picture Association of America, da Consumer Technology Association e de outros grupos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01003012
+# text = O encontro foi originalmente marcado para o Clube Metropolitano, um clube privado de Washington, na Rua H, a uns quarteirões de distância.
+S
+	None
+		None
+
+# sent_id = n01003013
+# text = Possivelmente a indumentária aconselhada foi muito rígida.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01004009
+# text = Por exemplo, em vez de o método científico ser ensinado como uma unidade separada, os estudantes aprendem conteúdos científicos aplicando-os.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01004017
+# text = Eles estão, na média nacional, no quarto ano e, melhores que a média nacional, no oitavo ano.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n01005023
+# text = Por comparação, custou $103.7 milhões construir o interior da estação de metrô do NoMa, que abriu em 2004.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01005024
+# text = Nós enfrentamos muita concorrência, e achamos que o transporte pode ajudar, disse o presidente do Georgetown BID, Joe Sternlieb.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01005031
+# text = O estudo de viabilidade estima que os passageiros iriam levar quatro minutos para atravessar o Rio Potomac na gôndola.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01006011
+# text = Uma testemunha contou à polícia que a vítima tinha atacado o suspeito em abril.
+S|NP
+	None
+		None
+
+# sent_id = n01007012
+# text = Há comparações a traçar aqui entre jogos e a nossa vida quotidiana.
+S
+	None
+		None
+			None
+				S|NP
+					None
+
+# sent_id = n01008017
+# text = Aquela quota tem aumentado firmemente ao longo dos anos - apenas 11 por cento dos votos totais foram lançados antes do dia eleitoral, em 1996, de acordo com a Agência dos Censos -- e parece que vai aumentar de novo este ano.
+S|NP
+	None
+		None
+
+# sent_id = n01009027
+# text = Hoje em dia, Khanzir deve ser um porco solitário, mas ele não está sempre sozinho.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01009054
+# text = Pedimos a outras nações para nos ajudarem a povoar o jardim zoológico com diferentes espécies de animais, incluindo um porco, disse Saqib.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01010042
+# text = Houve um tempo, disse o Sr. Panvalkar, em que ele sentiu que deviam abandonar o edifício.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01011004
+# text = Ela foi também acusada de ter tentado matar a sua filha de dois anos.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01011011
+# text = Ela matou o Andre Price III ao pressionar a cara dele contra um colchão de ar na sua sala de estar, antes de tentar fazer o mesmo à sua filha, Angel, disse a polícia.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n01011017
+# text = Eu vou para a cadeia de qualquer maneira, espero que tenha valido a pena.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01012003
+# text = Primeiro, uma das mulheres yazidis começou a chorar, depois uma das suas amigas.
+S|NP
+	None
+		None
+
+# sent_id = n01013005
+# text = O Sr. Osborne inscreveu-se na agência americana de oradores depois de ter sido despedido em julho.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01014003
+# text = Michael Fallon disse que a data para cortar o primeiro aço ajudaria a assegurar o novo investimento e a salvaguardar centenas de trabalhos qualificados, até 2035.
+S|NP
+	None
+		None
+
+# sent_id = n01014012
+# text = A promessa das novas ordens da Marinha Real para assegurar a construção de barcos da indústria Clyde foi feita antes do referendo de independência escocesa, em 2014.
+S
+	None
+		S|NP
+			None
+				None
+
+# sent_id = n01015033
+# text = É mais óbvio quando o nome de uma celebridade é, inicialmente, bastante raro.
+S
+	None
+		None
+			None
+
+# sent_id = n01015036
+# text = E em 2007, no pico da sua popularidade (e, talvez, na de Knightley) este foi um nome top 50, com três vezes mais bebês chamados Keira do que Kiera.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01016014
+# text = A companhia sul-coreana inicialmente pensou que a culpa seria de uma falha na bateria e substituiu o componente de fabricação própria por um de fabricação externa.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01016019
+# text = Vários analistas sugeriram que a Huawei está melhor colocada para se beneficiar do retrocesso da Samsung.
+S|NP
+	None
+		None
+
+# sent_id = n01016032
+# text = Os telefones Mate 9 carecem de uma interface de inteligência artificial, como o Assistente do Google ou a Siri da Apple.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01017005
+# text = Mas um especialista em viagens avisou que a internet durante os voos é frequentemente falível e é pouco provável que influencie as escolhas das companhias aéreas dos passageiros
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01017008
+# text = Mas pode ser que a BA e a IAG o tenham descoberto e possam oferecer algo vagamente confiável.
+S
+	None
+		None
+			None
+
+# sent_id = n01017010
+# text = A empresa disse à BBC que seria da responsabilidade de cada companhia aérea decidir se cobra dos passageiros uma taxa de acesso.
+S|NP
+	None
+		None
+
+# sent_id = n01017013
+# text = A maioria das pessoas acharia o wi-fi nos aeroportos mais útil do que ser capaz de enviar emails num avião.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01018024
+# text = É como um superpoder, às vezes.
+NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01018040
+# text = O esquema faz dinheiro através de patrocínios e publicidade.
+S|NP
+	None
+		None
+
+# sent_id = n01019004
+# text = O curso de 10 semanas foi "certificado" pela agência de espionagem britânica GCHQ.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01019005
+# text = Mas alguns especialistas de segurança levantaram questões acerca da necessidade do curso e da intenção por trás dele.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01020004
+# text = Anteriormente, os jatos só tinham sido vistos pelos blogueiros.
+S
+	None
+		None
+
+# sent_id = n01020017
+# text = Naturalmente, a China irá apresentar muitos outros equipamentos militares esta semana, desde helicópteros de ataque até aeroplanos.
+S|NP
+	None
+		None
+
+# sent_id = n01020021
+# text = E com a China pronta para se tornar, na próxima década, o maior mercado de aviação do mundo, o espectáculo é uma oportunidade para Pequim mostrar as suas ambições tanto na aviação civil como de defesa.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							S|NP
+								None
+									None
+										None
+											None
+												None
+													None
+														None
+															None
+																None
+																	None
+																		None
+
+# sent_id = n01021007
+# text = Infelizmente, mais uma vez, os poucos arruinam tudo para os muitos, escreveu Jesse LaBrocca, fundadora do Hack Forums, numa mensagem que explica o porquê de a seção ter sido fechada.
+S|NP
+	None
+		None
+
+# sent_id = n01021011
+# text = Os "eventos recentes" são provavelmente os ataques de 21 de outubro, que rapidamente derrubaram sites populares como o Reddit, o Twitter e o Spotify, bem como muitos outros.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01021012
+# text = As análises revelaram que quantidades históricas de informação foram utilizadas para causar a ruptura.
+S|NP
+	None
+		None
+
+# sent_id = n01022002
+# text = Um estudo da UN sobre planos nacionais para reduzir o carbono diz que estes estão bem abaixo dos níveis necessários para manter o aumento de temperatura global abaixo dos 2°C.
+S|NP
+	None
+		S|NP
+			None
+				None
+					None
+
+# sent_id = n01022005
+# text = Muitos cientistas dizem que a tecnologia para remover carbono do ar será agora necessária para atingir os objetivos de Paris.
+S|NP
+	None
+		None
+
+# sent_id = n01022010
+# text = "Estamos indo na direção certa: o Acordo de Paris vai reduzir as alterações climáticas, bem como a recente Emenda de Kigali vai reduzir os HFCs", disse Erik Solheim, chefe de Ambiente da UN.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01022016
+# text = Os investimentos nesta área aumentaram 6% em 2015, para $221bn.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01022027
+# text = É fantástico que eles tenham conseguido o Acordo de Paris, mas as suas contribuições no momento não estão nem perto do objectivo de 1.5 grau.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = n01023020
+# text = Foi realizado na costa mexicana, de abril a junho.
+S
+	None
+		None
+			None
+
+# sent_id = n01023034
+# text = Isto colocará novos limites à natureza das mudanças ambientais, que ocorreram na Terra e que conduziram tantas espécies - não só os dinossauros - à extinção.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01023043
+# text = Um indicador deste material meteorítico será provavelmente elevados níveis do elemento irídio.
+NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01024010
+# text = Um pouco mais de 70% das plantas crescidas a partir de sementes terrestres estavam vivas ao fim de 17 dias - ligeiramente mais do que as plantas crescidas a partir de sementes espaciais - pouco mais de 66%.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01024013
+# text = Os resultados desta experiência fornecem um suporte adicional à ideia de que as sementes espaciais podem voar e ser armazenadas na Estação Espacial Internacional durante seis meses, sem haver impactos significativos na sua habilidade de germinar e crescer na Terra.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01024016
+# text = O RHS recolheu comentários enviados por alunos e professores envolvidos na experiência.
+S|NP
+	None
+		None
+
+# sent_id = n01025025
+# text = Ainda há o fator 'yuk' relacionado à ideia de comprar e usar partes do corpo de outras pessoas, diz ela.
+S
+	None
+		None
+			None
+				S|NP
+					None
+						None
+
+# sent_id = n01025040
+# text = Na China, o cabelo é normalmente colocado num banho químico para remover por completo a cutícula, explica Tarlo.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01025045
+# text = Ao longo da história, o mercado internacional de cabelo tem tido sempre uma dimensão política, diz Tarlo.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01026004
+# text = Hoje à noite vamos dar prosseguimento aos castigos usando uma luz forte, diz o jornal.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01026016
+# text = A polícia de trânsito de Shenzhen tem optado, antes, por sanções não convencionais.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01027007
+# text = Quem são eles?
+S
+	None
+		None
+
+# sent_id = n01027030
+# text = Grande parte do debate, do lado Democrático neste ano, tem sido sobre a identidade de homens brancos.
+S
+	None
+		None
+
+# sent_id = n01027041
+# text = Mais tarde, eu perguntei-lhe se ela entendeu por que é que as pessoas poderiam votar em Trump.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01027049
+# text = Nem todo mundo pode superar isso.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01028022
+# text = Felizmente, alguém na Sony Austrália estava do tipo, 'Olá, por falar nisso, vocês repararam?' diz Pall.
+S
+	None
+
+# sent_id = n01029006
+# text = Seagel fez manchetes quando descreveu as ações da Rússia na Crimeia, que foram consideradas em 2014, como "muito razoáveis".
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01029007
+# text = Um grande guitarrista, ele deu um concerto lá, no mesmo ano.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01029011
+# text = Seage, cuja avó era de Vladivostok, no extremo leste da Rússia, fez viagens regulares à Rússica nos últimos anos e visitou Kamchatka e Sakhalin, em setembro.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01029014
+# text = No início deste ano, foi dada a Seagel a nacionalidade sérvia, depois deste se oferecer para criar uma escola de artes marciais na capital Belgrado.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n01030005
+# text = Um porta-voz da polícia contou à Associated Press que houve "uma troca de palavras", seguida de uma "discussão" mas que nenhum ferimento foi reportado.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01030006
+# text = Cuarón, cujo último filme foi o vencedor de Óscar Gravity, segundo as notícias, não estava no estúdio na hora do incidente.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01030008
+# text = De acordo com o departamento da polícia da cidade, uma luta começou depois de "um grande grupo de pessoas... que se identificaram como autoridades do distrito" chegarem ao grupo na terça-feira.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01031005
+# text = Os pesquisadores vêm investigando o potencial de contraceptivos hormonais masculinos há cerca de 20 anos.
+S|NP
+	None
+		None
+
+# sent_id = n01031021
+# text = Ele acrescentou: "Este foi um passo na longa jornada para encontrar a combinação certa para a contracepção hormonal masculina."
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = n01032032
+# text = Contudo há muitos MLASs, com profundas crenças religiosas, que se opõem à nova legislação.
+S
+	None
+		None
+
+# sent_id = n01033005
+# text = Os investigadores dizem que analisar o DNA do tumor poderá ajudar a explicar causas subjacentes de outros cânceres.
+S|NP
+	None
+		None
+
+# sent_id = n01033012
+# text = A análise mostra uma relação direta entre o número de cigarros fumados durante a vida e o número de mutações no DNA do tumor.
+S|NP
+	None
+		None
+
+# sent_id = n01033021
+# text = Contudo, eles não conseguiram encontrar esse mesmo padrão em tecidos como a bexiga, que não estão diretamente expostos.
+S|NP
+	None
+		None
+
+# sent_id = n01033028
+# text = A Sr.ª Pugh recebeu tratamento nos hospitais Papworth e Addenbrooke, em Cambridgeshire.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01033031
+# text = Mas o exame mostrou que o tumor do pulmão direito da Sr.ª Pugh está crescendo, e ela teve de deixar o experimento.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01034033
+# text = Se o Donald Trump se tornar presidente, o governo daqui ainda terá de trabalhar com ele para avançar com alguma agenda partilhada que exista, para garantir que os negócios e os interesses canadenses estão representados em Washington.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01034060
+# text = Trudeau estenderá este este convite ao 45º presidente dos Estados Unidos, quem quer que ele ou ela seja.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01035004
+# text = Apesar do lançamento de uma foto nesta manhã, a polícia em B.C. diz que eles têm mais perguntas do que respostas acerca de um homem aparentemente sem-teto acusado de um apunhalamento fatal de uma adolescente na sua escola em Abbotsford.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01035013
+# text = A polícia, em B.C., disse anteriormente que Klein não aparentava ter um histórico criminal e divulgou vagos detalhes sobre a sua localização recente.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01035025
+# text = Nós não acreditamos que o suspeito tenha vínculos com esta escola, com as duas meninas ou, especificamente, com a área de Abbotsford, disse ela.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01035030
+# text = Ele disse também que Klein estava pouco comunicativo, pouco cooperativo e relutante em sair das celas debaixo do tribunal para assistir à sua audiência.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01036002
+# text = A associação que representa os agentes imobiliários do estado de Ontário disse que precisa ser feito mais para proteger os consumidores e punir os agentes com comportamentos pouco éticos.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01036020
+# text = Ele também gostaria de ver um maior cumprimento e investigação de poderes para o Conselho Imobliliário de Ontario (RECO), que regula os agentes na jurisdição.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = n01036033
+# text = Atualmente, a multa máxima que a RECO pode cobrar de um agente é $25,000.
+S
+	None
+		None
+
+# sent_id = n01037020
+# text = Mas a crescente classe média chinesa tem sido incomumente verbal nas suas queixas acerca do ar tóxico em cidades como Pequim, que vê dia após dia poluição que asfixia os pulmões.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01038021
+# text = Estamos vendo muitos, muitos países e especialmente grandes emissores, como o Brasil, a África do Sul, a Índia e a China, tendo um papel importante na redução de emissões, disse Guilbeault.
+S
+	None
+		None
+			None
+				S|NP
+					None
+						None
+							None
+								None
+
+# sent_id = n01038025
+# text = Ele poderia também esperar até o fim do seu primeiro mandato para usar uma cláusula do acordo de Paris para sair do pacto.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01039013
+# text = Clinton e aliados, nesse meio de tempo, estão procurando manter o foco em Trump, reforçando que seus comentários depreciativos sobre mulheres e minorias, e o seu temperamento, o tornam inadequado para a função.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01039018
+# text = Isto não é o que precisamos no nosso país, pessoal.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01039039
+# text = A mulher de Trump, Melania Trump, fez a sua primeira aparição pública desde a convenção Republicana, em julho.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01040028
+# text = Estudantes como a Rai têm se encontrado com conselheiros, na escola, para falar sobre o que aconteceu, mas ela disse que o maior conforto foi ver seus amigos
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01041006
+# text = Este é um desastre para os pacientes que sofrem, disse Mailis, numa entrevista à CBC News, na quinta-feira.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01041018
+# text = Os médicos não têm estas ferramentas, eles apenas têm um livro de receitas e uma injeção, disse Mailis.
+S|NP
+	None
+		None
+
+# sent_id = n01042004
+# text = O diretor de revisão independente da Polícia de Ontario, Gerry McNeilly, definiu os termos para a sua análise desta semana, após terem sido levantadas "questões alarmantes" sobre a forma como os oficiais interagiam com os povos indígenas.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01042008
+# text = A inspeção também está investigando as publicações inflamatórias de setembro, no Facebook, alegadamente provenientes de agentes da polícia da região norte da cidade de Ontário.
+S|NP
+	None
+		None
+
+# sent_id = n01043005
+# text = Os executivos também receberam a chamada "remuneração por desempenho" por corresponderem ou superarem as expectativas, dividindo uma quantia de $1,5 milhões entre eles, ou em média, $15.000 para cada um deles.
+S|NP
+	None
+		None
+
+# sent_id = n01043014
+# text = Seu orçamento anual é maior que $1.4 bilhões e emprega mais de 6.000 pessoas.
+S
+	None
+		None
+
+# sent_id = n01043025
+# text = O governo federal reporta proativamente a remuneração de desempenho agregada e os níveis de bônus para cada departamento, mas a última publicação na internet é de 2013-2014 - ou com dois anos de atraso.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01043027
+# text = O total de remuneração por desempenho e bônus, naquele ano, foi de $1,5 milhões, quase no mesmo nível que o de 2015-2016.
+S
+	None
+		None
+			None
+
+# sent_id = n01044004
+# text = Gomery, que liderou a comissão de inquérito no escândalo do patrocínio federal, entre 2004 e 2006, disse que esses corpos eram essenciais para ajudar a restaurar a confiança pública no estado de direito.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = n01044009
+# text = Isso levou a revelações nos últimos dois dias de que ao menos seis outros jornalistas de Quebec foram indiciados por operações de vigilância da polícia local.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01045010
+# text = Não deve haver acesso privilegiado ao governo, ou aparente acesso privilegiado, concedido a indivíduos ou a organizações porque fizeram contribuições econômicas para os políticos e para os partidos políticos, lê-se nas diretrizes.
+S
+	None
+		None
+			None
+				None
+					None
+						S|NP
+							None
+								None
+									None
+
+# sent_id = n01045035
+# text = No julgamento de fraude e quebra de confiança de Duffy, o juiz acabou por determinar que estavam dentro das regras do Senado quando declarou Duffy livre de qualquer acusação.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01046003
+# text = Nossos celulares são muito mais que telefones hoje em dia.
+S|NP
+	None
+		None
+
+# sent_id = n01046036
+# text = É incrível, reportou a cliente de dados ilimitados da SaskTel, Lindsay Gay, no mês passado.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = n01046057
+# text = Ele também mostrou que Rogers introduziu, recentemente, um novo app que ajuda os clientes a monitorizar o seu uso de dados.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01047048
+# text = É isso que nos mantém voltando para mais.
+NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01048008
+# text = Estas estimativas coincidem com as porcentagens de novos condomínios entrando para o mercado de aluguéis antes de estarem completos, indicando o importante papel que os investidores (privados) têm no mercado de habitação GTA.
+S|NP
+	None
+		None
+
+# sent_id = n01049022
+# text = Esta cepa ajuda com dor nas costas, esta cepa ajuda com náuseas, este produto te faz dormir à noite, diz Dietrich, da sede da companhia em Denver, Colorado, onde a erva é vendida legalmente.
+S|NP
+	None
+		None
+
+# sent_id = n01049033
+# text = Mas sem um quadro legislativo, e com as origens populares da erva como um remédio de mudança de estado de espírito popular, as empresas ficam com dúvidas.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01050006
+# text = O ferro é um elemento essencial requerido pelo corpo para produzir hemoglobina, a proteína encontrada nas células de glóbulos vermelhos que são responsáveis por transportar oxigênio para tecidos no corpo.
+S
+	None
+		None
+
+# sent_id = n01050009
+# text = O atual período de espera é de oito semanas.
+S
+	None
+		None
+			None
+
+# sent_id = n01050014
+# text = É possível ter níveis normais de hemoglobina, mas ter baixas reservas de ferro, em geral, diz o Serviço Canadense de Sangue (CBS).
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n01050019
+# text = As novas orientações de valores de ferro dizem que serão necessários mais dadores.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01051004
+# text = O que começou como um ultrassom de rotina, tornou-se complicado quando a futura mãe Margaret Boemer, de Plano, Texas, foi informada de que o seu feto tinha uma condição rara e precisava de uma cirurgia para sobreviver.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+											None
+												None
+
+# sent_id = n01051006
+# text = O teratoma sacrococcígeo é um tumor que se desenvolve antes do nascimento e cresce no cóccix do bebê.
+S
+	None
+		None
+			None
+
+# sent_id = n01051007
+# text = É o tumor mais comum de se encontrar em bebês, ocorrendo um em cada 35.000 nascimentos.
+NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = n01052004
+# text = Ela tem 84 anos.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01052006
+# text = Ele a descreve como uma mulher "memorável" e "amorosa e maravilhosa" que deixou a sua marca no mundo literário com as suas histórias.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01053008
+# text = Alguns homens entendem e Bono é um desses homens, disse Leive em uma entrevista recente.
+S|NP
+	None
+		None
+
+# sent_id = n01053036
+# text = Com apenas 20, ela é uma voz forte contra o bullying e uma voz positiva para ajudar meninas a abraçarem os seus próprios padrões de beleza.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01053041
+# text = A voz dela literalmente deu uma volta ao mundo, disse Leive.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01054011
+# text = Assim que as fotografias oficiais da festa foram lançadas, as redes sociais se encheram de comentários - e eles foram muito pouco favoráveis.
+S
+	None
+		None
+			None
+
+# sent_id = n01054017
+# text = Muitas pessoas, incluindo grupos indígenas, argumentam que eles banalizam a cultura das Primeiras Nações.
+S|NP
+	None
+		S|NP
+			None
+
+# sent_id = n01055008
+# text = O objetivo destas audiências da CRTC é de coletar respostas das partes interessadas da indústria e do público.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01055038
+# text = Isto não se aplicaria apenas ao conteúdo de entretenimento, mas igualmente ao da educação, ao da investigação científica e, talvez mais importante, ao do discurso político.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+											None
+
+# sent_id = n01055047
+# text = Apesar de tudo, a internet não é um luxo; é uma ferramenta essencial.
+S
+	None
+		None
+			None
+
+# sent_id = n01057014
+# text = Os detritos formaram um anel ao redor do equador da Terra e, por fim, foram reunidos pela gravidade para formar a lua.
+S|NP
+	None
+		None
+
+# sent_id = n01057036
+# text = Ainda assim, há perguntas deixadas sem resposta.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01058037
+# text = Na cidade de Hillsborough, próxima de Chaper Hill, alguém incendiou, no mês passado, a sede do Partido Republicano.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01058052
+# text = Após a Carolina do Norte ter passado a sua lei que restringe o direito de voto em 2013, Campbell andou pelas igrejas ensinando às pessoas como lidar com as dificuldades no seu registro.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01058064
+# text = Ele podia detectar os efeitos da eleição à sua volta, nas explosões de conflito e na curiosa intersecção de novas ideias com antigas.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01059008
+# text = Este desacordo entre os dados econômicos e a retórica política é familiar, ou deveria ser.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01059019
+# text = Os economistas republicanos advertem contra tomar estes dados como prova de que o seu partido é péssimo na política econômica.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01059025
+# text = Eu não sei qual foi o crescimento do G.D.P durante as administrações de Washington e Lincoln, mas o desenvolvimento institucional naqueles termos teve efeitos grandes e de longa duração.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01059054
+# text = Há mais diferenças entre Sulla e Trump, Roma e U.S, do que há similaridades, mas isso não descredita as semelhanças.
+S
+	None
+		None
+			S|NP
+				None
+					None
+
+# sent_id = n01060069
+# text = E, admitiu ela, "vocês têm de olhar para onde ela reconheceu que nós precisamos de alguma coisa diferente - nós podemos fazer melhor - e onde ela expressou pesar.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01061016
+# text = Mas, à medida que a crítica contra Clinton como primeira dama se tornou mais ácida, Karel demonstrou mais empatia.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01061023
+# text = Quando estou interpretando ele, eu me sinto poderoso, explicou o personificador de Donald Trump, John Di Domenico, à Slate, no ano passado.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01061041
+# text = Com a histeria das eleições presidenciais de 2016 se intensificando, uma ameaça mais preocupante do que a estupidez preocupa Karel.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01062035
+# text = Eles são normalmente artistas que querem fazer um monte de coisas.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = n01062049
+# text = Então o anúncio termina.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01063011
+# text = Os produtores de Miami Bass eram clínicos na arte de mexer bundas - a sua maior preocupação.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01063043
+# text = Numa entrevista recente, Zay e Zayion descreveram a gravação da sua versão de "Knuck If You Buck" em um laptop em casa.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01063048
+# text = Mas os desafios, assim como as músicas que os instrumentam, adicionam à massa contorcida de vídeos desfocados em looping um sistema nervoso interligado e rastreável.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01063051
+# text = Os seus reaparecimentos sublinham o apelo de um bom desafio, artístico ou de outra forma: desconforto, crescimento, e uma conexão significativa.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01064009
+# text = Seria muito mais seguro, pensou Plato, conferir o poder a guardiões cuidadosamente educados.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01064096
+# text = Como muitas pessoas que conheço, passei os meses recentes acordado até tarde, lendo as sondagens em terror.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01064113
+# text = Caplan descarta o voto retrospectivo, citando um par de estudiosos que o chamam "não mais racional do que matar o faraó quando o Nilo não inunda".
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01065073
+# text = Mas não havia mais nada obviamente artístico sobre ela ou no seu comportamento com outras pessoas.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01066045
+# text = Em 2010, a fundação lançou uma edição formatada de "Zettel's Traum", removendo a barra de entrada para aqueles que hesitaram com a sensação de rascunho do photo-offset.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01066068
+# text = Correspondendo com Woods por e-mail, eu tentei a minha sorte para descobrir o verdadeiro sentido.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01066093
+# text = Completa negligência da sua própria saúde, reportou a sua mulher, Alice.
+NP
+	None
+		None
+			None
+
+# sent_id = n01067014
+# text = Cada mapa na exposição conta a sua própria história, nem todas factuais.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01067023
+# text = Também estão sendo exibidos, pela primeira vez, os mapas do Ministério da Defesa britânico, que representam batalhas da guerra fria e que foram usados ​​em exames militares da faculdade.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01068029
+# text = O círculo eleitoral está na área do conselho de Kesteven do Norte, onde 62% dos eleitores apoiaram a saída da UE.
+S
+	None
+		None
+
+# sent_id = n01068038
+# text = A sua habilidade para obter respostas para os contribuintes trará uma profunda saudade.
+S|NP
+	None
+		S|NP
+			None
+				None
+
+# sent_id = n01069004
+# text = Christian Wolmar, que escreveu vários livros sobre história ferroviária, participará na competição em 1º de dezembro.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01069006
+# text = Os democratas liberais, que representaram o abastado subúrbio até 2010, esperam recuperá-lo com a sua candidata Sarah Olney.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01069014
+# text = Entretanto, a distanciada mulher de um chefe de governo lançou a sua campanha para tomar o lugar.
+S|NP
+	None
+		None
+
+# sent_id = n01069023
+# text = Ele era completamente gracioso e o enfrentou como um homem, eu estou para lá de furioso
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01070016
+# text = Mais de 330 tripulantes estão a bordo do navio.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01070017
+# text = Vega sugeriu que, por causa da sua idade, muitos seriam desconhecedores da sua história.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n01070020
+# text = As pessoas foram mortas lá.
+S
+	None
+		None
+
+# sent_id = n01071009
+# text = Uma central elétrica a carvão em Badarpur, sudeste de Deli, vai parar de operar por 10 dias, juntamente com os geradores a diesel na cidade.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01072010
+# text = Ele passou, então, quatro anos com a rádio BBC World Service, na casa Bush.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01072012
+# text = Ele trabalhou para a BBC por uma década.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01072021
+# text = Uma das suas muitas publicações de lamento no Facebook tem uma linha que teria encantado Chris: "Mais africano do que você, eu não conheço."
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01073004
+# text = Quem consegue parar o time da Austrália?
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01073023
+# text = Seria o seu direito divino para o manto, uma vez que o melhor do mundo já não justificava?
+NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01074011
+# text = Eles têm uma hipótese de redenção, vencendo a Inglaterra.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01074015
+# text = A África do Sul está quase em um beco sem saída e nós temos que conseguir alcançar suas expectativas.
+S
+	None
+		None
+
+# sent_id = n01074020
+# text = Ele tem um jogo duro mas também tem umas mãos suaves.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01074026
+# text = Nós temos uma boa equipe e esta é uma oportunidade para nós levarmos o navio para a frente.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01074030
+# text = Você tem que resistir a isso e eu preferiria ser perseguido do que cercado.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01075028
+# text = Era como se ele estivesse passando a bola de um lado para o outro, debaixo de três copos virados para baixo.
+S
+	None
+		None
+			None
+
+# sent_id = n01075044
+# text = A Austrália, calejada pelos seus jogos recentes no Campeonato de Rugby, estava com uma velocidade superior.
+S
+	S|NP
+		None
+
+# sent_id = n01076006
+# text = Uma vitória de Donald Trump imediatamente tornaria o mundo mais preocupante e inseguro do que ele já é.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01076017
+# text = A Senhora Clinton tem uma reputação de um aspecto de falcão, mas isto será temperado por uma opinião pública deprimida pela guerra, nos EUA.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01076030
+# text = Ele falou a favor da tortura.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01077018
+# text = Eu também luto com as senhas.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01077030
+# text = Então, há histórias chamadas de verdadeiras que são publicadas em uma série de imagens significativas, com texto correndo por baixo.
+S
+	None
+		None
+			None
+
+# sent_id = n01078025
+# text = Claro, eu entendo que a Alemanha dos dias modernos deve ser separada do regime Nazi.
+S|NP
+	None
+		None
+
+# sent_id = n01079015
+# text = No canto, está uma menina com um lenço na cabeça e calça jeans, com um ar tão modesto que penso ser outra assistente.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01079065
+# text = Os artistas alcançam as pessoas no seu coração; é a única vez que nos encontramos em um lugar e colocamos as nossas diferenças de lado.
+S|NP
+	None
+		None
+
+# sent_id = n01079069
+# text = Os seus títulos menos comuns incluem embaixador global da saúde da cidade de Nova Iorque e na Sociedade dos Hospitais, e um lugar na Escola de Gestão de Harvard.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01080039
+# text = Posso fazer só isso da minha vida.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01080042
+# text = Eu queria vê-lo com eles, mas eles decidiram, por fim, que preferem vê-lo sem mim.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01081022
+# text = Nós não podemos deixar que a presidência vá para o Donald Trump, alguém tão racista, sexista e incrivelmente desqualificado para ser comandante-chefe.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01082014
+# text = Mais pessoas estão apelando para o crédito... Enquanto estes empréstimos podem ser gerenciáveis por enquanto, uma mudança súbita nas circunstâncias pode levar a problemas de dívidas.
+S|NP
+	None
+		None
+
+# sent_id = n01083013
+# text = A sua razão é que isso providencia insuficiente proteção aos trabalhadores americanos cujos trabalhos e padrões de vida podem ser afetados.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01083035
+# text = Neste contexto, fazer campanha contra as negociações faz sentido.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01084008
+# text = Teoricamente, um casal poderia abrir quatro contas Tesco e ganhar 3% em £12,000 – £360.
+S|NP
+	None
+		None
+
+# sent_id = n01084023
+# text = Entretanto, os clientes do Banco da Escócia ganham 3% em balanços de £3,000-£5,000 quando adicionam a opção gratuita Vantage às suas contas.
+S|NP
+	None
+		None
+
+# sent_id = n01084036
+# text = Com isto, em teoria, você é capaz de acessar seu dinheiro sempre que quiser.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01084045
+# text = Esta taxa de 3% também se aplica a titulares de cartão Nectar que pensam em pedir emprestado £15,001-£19,999, durante um período de dois a três anos.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01085006
+# text = O enxofre é um nutriente vital para o crescimento saudável das plantas, mas os solos no Reino Unido são naturalmente deficientes deste mineral.
+S
+	None
+		None
+
+# sent_id = n01085008
+# text = Um avanço rápido para 2016 e isso é cada vez mais digno de atenção.
+NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01085011
+# text = Surpreendentemente como pode parecer, até as nuvens de chuvas ácidas podem ter um lado positivo.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01086013
+# text = O mundo pode estar enfurecido e absurdo - no entanto pelo menos alguém tem dignidade para continuar a protestar contra esse fato.
+S|NP
+	None
+		None
+
+# sent_id = n01086016
+# text = Acaba ouvindo mais intensamente o barulho seguinte e ficando mais irritado quando ele surge.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01086031
+# text = Isso é legitimamente horrível.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01087005
+# text = É justo dizer que Rocco Catalano trabalha, vive e respira retro.
+S|NP
+	None
+		None
+			S|NP
+				None
+					None
+						None
+
+# sent_id = n01087018
+# text = Penso que é por isso que eles se imergiram em padrões e cor.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01087023
+# text = Catalano voltou para a área depois de viver em Londres e em Glasgow, onde estudou design de jóias na Glasgow School of Art.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01087035
+# text = Eu adorei as cores tropicais, diz ele.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01087039
+# text = Eu visitei os espetáculos universitários na Universidade de Northampton para encontrar novos talentos, diz ele.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01088026
+# text = Mas, quando eu sugiro que ela use a Frank como sua modelo, ela ri.
+S|NP
+	None
+		None
+
+# sent_id = n01089007
+# text = Naturalmente, a paisagem do escritório apresenta muitas roupas e, no sentido de comida, pouco.
+S|NP
+	None
+		None
+
+# sent_id = n01089033
+# text = A própria Wintour aparece rapidamente, e é filmada colocando seus óculos de sol antes de ser entrevistada.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01090004
+# text = Olhei para o motocross e quanto mais olhava, continuava a surgir a cara desta mulher, em fotografias que pareciam ser dos anos 70.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01090037
+# text = Amo jogar com isso e estou sempre à procura de musas que se encaixem, porque é tão interessante fazer uma coleção quando encontro uma.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01091013
+# text = Na melhor das hipóteses, é ingênuo e, na pior, deixaria novamente o lobby das armas fora dos problemas.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01091017
+# text = O seu representante de políticas da natureza, Jeff Knott, declarou: "Eu ficaria espantado se uma proibição ou um licenciamento fosse com base nestes fundamentos".
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01091019
+# text = A postura do RSPB também o colocou em conflito com muitos líderes conservadores, desde o autor da petição, Mark Avery, ao apresentador de TV Chris Packham.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01092008
+# text = Vamos simplesmente dizer que ele está errado.
+S
+	None
+		None
+			None
+
+# sent_id = n01092014
+# text = E a posição da Austrália?
+NP
+	None
+		None
+			None
+
+# sent_id = n01092025
+# text = Nisto, um ponto diário em Marrocos será em pleno sábado, quando países desenvolvidos se questionam publicamente sobre seus planos e ambições.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01092040
+# text = “Estamos ativamente pensando em possíveis formas de limitar o âmbito do litígio para apenas aqueles que tenham uma posição real no projeto,” ele foi citado como dizendo.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01093007
+# text = O bacalhau do mar Céltico pode colapsar, sem os limites propostos, disse um oficial da UE.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01093024
+# text = Mas foram também previstas grandes promoções para o bacalhau, a solha, o linguado, o linguado-areeiro e o escamudo, nos mares Celtas e Irlandeses.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01093025
+# text = Os conservacionistas saudaram o anúncio da comissão.
+S|NP
+	None
+		None
+
+# sent_id = n01094014
+# text = Apenas 50 eram mercados.
+S
+	None
+		None
+
+# sent_id = n01094022
+# text = O Agora foi apenas por convite, mas muitos destes mercados estão facilmente acessíveis se você souber como pesquisar, acrescenta o Dr. Lee.
+S|NP
+	None
+		None
+
+# sent_id = n01095004
+# text = Eles não os tinham no nosso tempo, e pessoas sem crianças se expressam através da sua desaprovação, o seu ódio pela parentalidade moderna.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01095009
+# text = Não o chamo de besta levemente.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01095019
+# text = Dia três, eu estava de volta no EMicro.
+S
+	None
+		None
+
+# sent_id = n01096006
+# text = O mundo - e, por extensão, o Reino Unido - está enfrentando uma escassez de pessoas com as habilidades necessárias para montar uma defesa eficaz.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01096032
+# text = As empresas podem tentar criar um firewall entre sistemas sensíveis e potências estrangeiras, mas nem sempre funciona.
+S|NP
+	None
+		None
+
+# sent_id = n01096040
+# text = Mas eles podem pelo menos colocar armadilhas para confundir e impedir - um conceito conhecido como "defesa ativa".
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01097020
+# text = Depois de ter descoberto uma rica discussão na internet sobre o assunto, a minha lista cresceu muito e cobriu quase todos os estados da união.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = n01097041
+# text = Eu avistei algumas.
+S|NP
+	None
+		None
+
+# sent_id = n01097098
+# text = A minha próxima parada foi Bellingham, bem perto da fronteira canadense.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01098034
+# text = De volta ao trem, nós continuamos em direção ao o sul.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01098041
+# text = Uma cidade pequena, com dois minaretes, desliza.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01098044
+# text = Em cada estação, um guarda de chapéu vermelho comanda a plataforma e um trabalhador anda ao longo do trem com um martelo, batendo gentilmente na parte de baixo da carruagem.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01099035
+# text = Depois, procure no mercado matinal (6:30 - 10:00): pirulitos de arroz, casulos de vespa (as pupas são consideradas um petisco), asas de frango, casca e folhas de moscadeira, sapos vivos e bagre.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01101003
+# text = A intervenção de Pequim é, possivelmente, a de maior alcance, desde a entrega de Hong Kong pelo Reino Unido em 1997.
+S
+	None
+		None
+			None
+
+# sent_id = n01101007
+# text = O juramento envolve legisladores jurando lealdade a Hong Kong, como parte da República Popular da China.
+S|NP
+	None
+		None
+
+# sent_id = n01101012
+# text = O governo de Hong Kong, que é liderado por legisladores pró-Pequim, argumentou que o par não deve tomar posse.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01101015
+# text = Pequim acredita que a sua intervenção é necessária para evitar a paralisia legislativa contínua na cidade, disse ele.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01101017
+# text = Entretanto, Hong Kong, parece estar se preparando para uma onda de protestos.
+S|NP
+	None
+		None
+
+# sent_id = n01102006
+# text = Ele disse no Andrew Marr Show da BBC: "Uma eleição legislativa é francamente a última coisa que o Governo quer."
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01103013
+# text = É o sonho dele terminar a sua carreira aqui.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01104011
+# text = Empatar um jogo que você dominou é simples de esquecer, mas fazê-lo três vezes em seguida sugere fraqueza.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01104019
+# text = Estávamos tão desapontados porque perdemos seis pontos jogando em casa.
+S
+	None
+		None
+			None
+
+# sent_id = n01105003
+# text = Esse foi, sem dúvida, o caso de Andy quando enfrentou Benoît Paire, em Monte Carlo, em abril.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n01105013
+# text = Mas agora tudo está fora de questão e ele parece estar à procura de respostas a toda hora.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+											None
+												None
+													None
+														None
+															None
+
+# sent_id = n01105023
+# text = Eu também penso se a Taça Davis desempenhou algum papel.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01106008
+# text = A pesquisa anual também revelou que as preocupações sobre assumir novos encargos financeiros têm disparado.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01106015
+# text = O senhor Hopley acrescentou: "O aumento do risco político não deve passar despercebido".
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01107005
+# text = A notícia da fraude da companhia - que tinha funcionado durante anos - limpou dezenas de bilhões de euros do valor da VW e custou ao executivo principal, Martin Winterkorn, o seu trabalho.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01107006
+# text = Isso também abriu a VW para reivindicações e ações legais imensas, e viu elas levarem mais que €16 bilhões de provisões.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01107008
+# text = A sondagem começou em junho, com foco no Sr. Winterkorn e no chefe de marca, Herbert Diess, que permanece na fabricante de automóveis.
+S|NP
+	None
+		None
+
+# sent_id = n01107010
+# text = Ele foi promovido a presidente em outubro de 2015, o mês seguinte ao escândalo ter sido descoberto.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01108003
+# text = As empresas esperavam começar a decrescer em julho, imediatamente após o voto do Brexit, mas em vez disso têm conseguido manter o crescimento constante.
+S|NP
+	None
+		None
+
+# sent_id = n01108005
+# text = Os negócios de varejo e atacado se expandiram, uma vez que os lojistas continuam otimistas e as companhias de serviço ao cliente também cresceram.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01108015
+# text = No entanto, haverá limites para a sua capacidade de gastar uma vez que o Governo ainda tem um grande déficit orçamental.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01109008
+# text = O custo vai mudar mensalmente e é esperado que o preço aumente no inverno, tal como o uso aumenta.
+S|NP
+	None
+		None
+
+# sent_id = n01109012
+# text = A taxa fixa da Eon custa £760 e os clientes da Avro Energy pagariam cerca de £760 pela sua tarifa Simple and Select.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01109022
+# text = Ou é um classe cara ou uma tarifa de pré-pagamento?
+NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01110006
+# text = Um investidor com alguma sorte e £10,000 em títulos poderia esperar receber £125 em prêmios, por ano.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01110008
+# text = Se eles o fizessem, a Premium Bonds seria indistinguível das contas poupança comuns.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01110022
+# text = O dinheiro investido no Premium Bonds, e em outras contas do National Savings & Investments, é usado para ajudar a financiar os gastos do Governo.
+S
+	None
+		S|NP
+			None
+
+# sent_id = n01111018
+# text = Isso não impediu os investidores de se reunirem para colocar o seu dinheiro nos fundos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01111021
+# text = Ele foi seguido pelos fundos Aviva Investors Multi Strategy Target Return and Income, nos quais os investidores colocaram £ 2bn e £ 1,4bn, respectivamente.
+S
+	None
+		None
+			None
+
+# sent_id = n01111030
+# text = Isto significa que eles não se beneficiaram da elevação que a queda da libra deu aos ativos financeiros exteriores.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = n01112002
+# text = A Adidas está ajudando a limpar os oceanos da Terra, usando os resíduos que flutuam pelo mundo para fazer sapatos.
+S|NP
+	None
+		None
+
+# sent_id = n01112012
+# text = O consumidor pode impulsionar a procura pela mudança.
+S|NP
+	None
+		None
+
+# sent_id = n01112014
+# text = Em janeiro, um relatório importante disse que os oceanos conteriam mais plástico do que peixes até 2050, a menos que o mundo tomasse uma atitude radical para impedir que os lixos vazassem para os mares.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01113021
+# text = Após algumas cirurgias geniais e muito trabalho duro de reabilitação, eu tive uma recuperação completa.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01114012
+# text = Advertindo que o SNS estava agora sob "enorme pressão", ele pediu ao público para assumir mais responsabilidade pela sua própria saúde.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01114025
+# text = Quatro em cada 10 adultos ficaram feridos devido ao mau tempo, enquanto nove em cada dez subestimam o quão fria a Grã-Bretanha pode ser no inverno.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01115005
+# text = Eles vão atuar no sábado, 10 de junho.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01115013
+# text = O ano passado foi um ano incrível e estou pronto para que possamos voltar ainda melhor em 2017.
+S
+	None
+		None
+			None
+
+# sent_id = n01116009
+# text = Ela começou no RSC no meio dos anos sessenta, atuando como internada de asilo no Marat/Sade.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01116014
+# text = O vestido é contemporâneo.
+S|NP
+	None
+		None
+
+# sent_id = n01116018
+# text = De onde vem toda a sua energia? Ou essa sua voz, que pode explodir com uma força para induzir ondas de choque?
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01116021
+# text = O seu pescoço avança em confronto com veias acentuadas, as suas mãos tremem.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01116035
+# text = Mas tendo permitido que Glenda mandasse tão bem, quem poderia culpá-lo?
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01117007
+# text = Ele trabalhou no setor das notícias e dos assuntos atuais, na rádio e na televisão durante décadas.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n01117014
+# text = Em teoria, se for bem feito, não é detectável.
+S
+	None
+		None
+			None
+
+# sent_id = n01118003
+# text = Largue o microfone.
+S
+	None
+		None
+
+# sent_id = n01118010
+# text = Segundo a própria contagem do diretor, até à data, ele fez oito longas-metragens.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01118017
+# text = O cinema tinha mudado tão drasticamente que Hollywood tinha alienado o público familiar.
+S|NP
+	None
+		None
+
+# sent_id = n01119011
+# text = Do ponto de vista do realizador, o filme é um ato precário, balançando-se entre comédias familiares e dramas sociais profundos.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01119012
+# text = A um nível, funciona como um aconchegador de corações amigável e despretensioso, que parece feito à medida para uma sessão de domingo à tarde.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01119017
+# text = E, claro, tem o Bob, uma constante fonte de entretenimento.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01119019
+# text = O resultado, então, dificilmente é o pijama do gato.
+S
+	None
+		None
+
+# sent_id = n01120008
+# text = Para as audiências modernas, maioria das quais com pouca experiência em conflitos de primeira linha, os feitos de Doss pertencem à esfera do inimaginável.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01120010
+# text = A história do Doss também tem uma qualidade improvável que torna tudo ainda mais atraente.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01120020
+# text = Todos os médicos estavam armados, exceto eu.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01121032
+# text = Quando Millican morreu, assumimos que essa também seria a última vez que veríamos o desastrado, antissocial Odi.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01121051
+# text = A série dois está dando certo até agora?
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01122024
+# text = "Super-heróis estão fora da experiência humana e isto também está, então o tratei como um drama", diz Zimmer.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+											None
+
+# sent_id = n01123010
+# text = Mas as ações sombrias de Cotton não ocorreram devido a um tipo de compulsão para matar.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01123012
+# text = Cotton nasceu a 31 de outubro, de 1832, em uma vila perto de Sunderland.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = n01123024
+# text = Talvez não importe desde que eu não seja importunado durante muito tempo.
+S
+	None
+		None
+			None
+
+# sent_id = n01125009
+# text = Já não é um efeito que remete para os anos setenta, a flocagem - ou a cobertura de uma superfície é material - está novamente na moda.
+NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01125016
+# text = O marco de Londres, a Torre de South Bank, encomendou à designer de interiores, Rachel Winham, o design do apartamento de exibição.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01125030
+# text = Naturalmente, a tendência tátil está intimamente ligada à nossa crescente obsessão por fazer coisas.
+S|NP
+	None
+		None
+
+# sent_id = n01127008
+# text = Dois anos depois, Jutting, agora com 31 anos, está em julgamento no Tribunal de Hong Kong, acusado de dois assassinatos e de uma obstrução legal de enterro.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01127089
+# text = Eu não sei por que é que a escolhi...
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01127130
+# text = No tribunal de Hong Kong, dois anos depois, Jutting apareceu amplamente composto.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01128017
+# text = Afinal de contas, a nossa performance organizacional é raramente medida em termos de quão seguros somos e de quantas regras seguimos.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01128021
+# text = Como resultado, muitas pessoas abriram rapidamente e-mails ou clicaram em links e anexos, sem pensar nas suas consequências.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01128025
+# text = Primeiro, nós devemos educar as pessoas sobre como se proteger melhor, online.
+S|NP
+	None
+		None
+
+# sent_id = n01128033
+# text = Finalmente, temos que fazer com que seja fácil para as pessoas reportarem possíveis falhas e e-mails maliciosos.
+S
+	None
+		None
+
+# sent_id = n01129006
+# text = A votação, no vernáculo do terror, torna-se o novo alvo fácil.
+S|NP
+	None
+
+# sent_id = n01129010
+# text = Esta é uma questão de segurança nacional do tipo mais existencial.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01129017
+# text = Terça-feira é só sobre conseguir o voto, mas isso não significa nada se um eleitor registrado não estiver na lista.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01129021
+# text = Muitos desses, em uma área altamente contestada, levarão o caos ao dia das eleições.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01130003
+# text = A Carolina do Norte é o ponto central nesta eleição.
+S
+	None
+		None
+			None
+
+# sent_id = n01130025
+# text = Donald Trump é uma pessoa pomposa, arrogante, presunçosa, que se preocupa consigo mesmo, e o seu temperamento é tóxico para os Estados Unidos.
+S
+	None
+		None
+
+# sent_id = n01131007
+# text = Mais de 5,7 milhões de pessoas na Flórida já tinham ido às urnas, após cerca de duas semanas de votação antecipada.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01131013
+# text = A liderança do GOP foi levada por números fortes de abstenção, e a sua vantagem global ficou pelos 16.500 no início desta semana.
+S
+	None
+		None
+			None
+
+# sent_id = n01132006
+# text = São as eleições, claro, não a "Guerra dos Tronos."
+NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01132013
+# text = Martin tem ainda que terminar os dois livros restantes da sua aclamada série, atualmente chamados de "Os Ventos do Inverno" e "Um Sonho de Primavera".
+S|NP
+	None
+		None
+			None
+				None
+					None
+						S|NP
+							None
+								None
+									None
+										None
+
+# sent_id = n01133014
+# text = Os estudantes holandeses ainda têm que decidir se irão comercializar as suas motos elétricas.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01133022
+# text = Uma porta-voz da Harley-Davidson disse que os cronogramas que têm sobrevoado os meios de comunicação - 2017 ou 2020 - não são precisos.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01134005
+# text = As futuras ações norte-americanas estão crescendo mais de 1%, ao lado dos mercados europeus.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01134007
+# text = Investidores estão liquidando títulos do tesouro, com títulos americanos e australianos sentindo o maior impacto.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01134015
+# text = Ele é creditado com esforços para ajudar a resolver a montanha de dívidas acumuladas por governos locais na China.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01134020
+# text = Mas só avançou depois de a Agência de Proteção Ambiental Americana ter alertado o Mundo para o assunto.
+S
+	None
+		None
+			None
+
+# sent_id = n01135002
+# text = O apetite insaciável da China por galinha frita costumava ser uma grande razão pela qual investidores amavam o pai do KFC, Yum Brand.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01136005
+# text = Com a ajuda da União Americana pelas Liberdades Civis, eles, por fim, desafiaram o estado, num caso que, afinal, foi para o Supremo Tribunal dos Estados Unidos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01136006
+# text = Como o filme torna claro, os Lovings -- e Richard em particular -- eram participantes relutantes na história.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01136010
+# text = Loving começa com Richard e Mildred já como casal, omitindo um namoro que, mesmo que breve, seria interessante de ver.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01137003
+# text = Celebridades, fãs e até mesmo repórteres da CNN estão se vestindo, neste feriado, como personagens de "Stranger Things".
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01137010
+# text = Eu não tinha assistido muitos dos episódios e, então, o meu telefone começou a acender.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = n01138007
+# text = Como um dos braços direitos de Negan (Jeffrey Dean Morgan), ele se dá ao luxo de certas liberdades.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n01138017
+# text = O Norman é um dos meus melhores amigos, então foi péssimo vê-lo naquele estado emocional.
+S
+	None
+		None
+
+# sent_id = n01138026
+# text = Novos episódios são seguidos pelo programa, "The Talking Dead."
+S
+	None
+
+# sent_id = n01139006
+# text = "Nas cidades onde estamos lançados ou estamos em fase de construção, o nosso trabalho continuará", disse Barratt.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n01139016
+# text = O esforço da Internet foi dito como sendo o principal mobilizador de despesas de capital para a unidade.
+S
+	None
+		None
+			None
+
+# sent_id = n01139027
+# text = Para já, os analistas estão hesitantes em eliminar o serviço.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01140012
+# text = Na Holanda, as autoridades adotaram uma abordagem de tecnologia simples para rastrear drones.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01141002
+# text = A Microsoft anunciou, na quarta-feira, uma nova ferramenta de chat no local de trabalho, confiante de que vai tomar o lugar da querida empresa, Slack.
+S|NP
+	None
+		None
+
+# sent_id = n01141007
+# text = Há também a opção de enviar emoji, GIFs, memes customizados e autocolantes pela plataforma, e associar o seu feed do Twitter.
+S
+	None
+		None
+
+# sent_id = n01141020
+# text = O movimento destacou o desejo da empresa de que os usuários comecem a pensar nos seus produtos como algo mais do que apenas ferramentas de produtividade.
+S|NP
+	None
+		None
+
+# sent_id = n01141022
+# text = Mas seu último esforço no jogo dos chats no local de trabalho é parte de uma tendência maior das empresas de tecnologia.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01142007
+# text = Isner, que fez algum do seu melhor tênis enquanto se nivelava em um set all e forçava o ponto decisivo, também pagou o seu tributo.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+											None
+												None
+
+# sent_id = n01142008
+# text = "Eu tenho que felicitar o Andy -- por chegar ao No. 1 do mundo, que é uma conquista incrível", disse o americano.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01143003
+# text = "Dupla fez uma pegadinha ao entrar no torneio de golfe norte-coreano", saiu nas notícias do Brisbane's Nine.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01143009
+# text = Dois australianos, que, segundo eles próprios, são péssimos jogadores de golfe, deram um blefe para entrar em um primeiro torneio de golfe, na Coreia do Norte.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01144021
+# text = Snowman saltaria a cerca elevada que separava as duas propriedades, mas voltava sempre para onde se sentia em casa.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01144023
+# text = Ele continuou aparecendo no meu celeiro e eu brinquei com o cara dizendo que, claramente, ele não queria ser vendido.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01144038
+# text = Snowman não pensou nada sobre o Johnny Carson ir buscar uma escada e se sentar em frente a ele, acrescenta.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01144041
+# text = Eu era apenar um rapaz com sapatos lamacentos.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01145008
+# text = Não há desfile e nunca houve.
+S
+	None
+		None
+			None
+
+# sent_id = n01145012
+# text = É um evento que o México espera que, eventualmente, faça frente ao Carnaval do Brasil.
+NP
+	None
+		None
+			None
+
+# sent_id = n01145015
+# text = Alejandra González Anaya, uma das diretoras criativas do desfile, explicou à CNN o porquê do México ter decidido que agora é o momento de pôr no ar um programa como este.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n01145028
+# text = Há 1200 voluntários a trabalhando apenas para o desfile, diz González Anaya.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01145034
+# text = Então, é maravilhoso ser capaz de salvá-lo e trazê-lo a um novo formato e a uma nova tradição para os Mexicanos.
+S|NP
+	None
+		None
+
+# sent_id = n01146046
+# text = Ao completar esta linha de maglev, penso que o governo está à espera de um maior desenvolvimento econômico no Japão.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n01147026
+# text = Um ingresso F1 garante acesso ao concerto no mesmo dia.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01147085
+# text = O site da Yas Marina Circuit tem timings exatos.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01147087
+# text = Para todos aqueles que querem ver a capital em todo o seu esplendor, Novembro é um ótimo momento para ir.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01148029
+# text = Também é impulsionado pelo surgimento de modernos arranha-céus -- como o visionário MahaNakhon, o edifício mais alto de Bangkok.
+S
+	None
+		None
+			None
+
+# sent_id = n01148035
+# text = Nem todas as transformações na região têm sido bem sucedidas
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01149002
+# text = Soterrado a 100 metros (328 pés) abaixo da terra, o metrô Pyongyang é um dos mais profundos sistemas de transportes no mundo.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = n01149010
+# text = Ela falou à CNN Style sobra a experiência.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n01149027
+# text = Em Pyongyang, eu vi algumas pessoas nos seus smartphones, mas muito menos.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01150007
+# text = Mas a arquitetura pode criar uma ligação entre os vivos e os mortos e, até certo ponto, diminuir as fronteiras.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n01150031
+# text = Quando as pessoas morrem por velhice na Índia, isso deveria ser uma celebração.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n01150042
+# text = Criado por Juan Carlos Salas, o prédio vencedor tem uma aparência escultural e todos os detalhes têm um significado.
+S|NP
+	None
+		S|NP
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = n01150051
+# text = A arquitetura não ajudará os mortos, mas ajuda a manter as suas memórias entre os vivos, diz ele.
+S|NP
+	None
+		None
+
+# sent_id = w01001049
+# text = A carta permitiu a criação de uma guilda de comerciantes, administrada pelos burgueses da vila, para tributar as pessoas que passavam pelo bairro.
+S|NP
+	None
+		None
+
+# sent_id = w01002008
+# text = É excepcionalmente rico em minerais, contendo grandes depósitos de ouro, diamantes e minérios de manganésio, chumbo, zinco, níquel, cobalto e molibdénio.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01002013
+# text = Fora do extremo noroeste, a taiga é dominante, cobrindo uma parte significativa da totalidade da Sibéria.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01002075
+# text = A Universidade de Inverno de 2019 será organizada por Krasnoyarsk.
+S
+	None
+		None
+			None
+
+# sent_id = w01003051
+# text = São exemplos as ilhas da Linha no Pacífico e as Maldivas no Oceano Índico.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01003056
+# text = As ilhas graníticas incluem as Seicheles e a ilha de Tioman e ilhas vulcânicas como a ilha de Santa Helena.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01003062
+# text = Um exemplo de uma ilha deserta pode ser as pequenas ilhas ao largo da costa da Baixa Califórnia, no México.
+S
+	None
+		None
+			None
+
+# sent_id = w01004051
+# text = A cidade-estado grega de Atenas, no século V a.C., que dependia das importações de cereais da Cítia, manteve alianças cruciais com cidades que controlavam os estreitos, como a colônia megárica de Bizâncio.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01005020
+# text = O altamente conceituado comandante de Dário, Megabizo, foi responsável pela concretização das conquistas nos Balcãs.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01005021
+# text = As tropas aquemênidas conquistaram a Trácia, as cidades costeiras da Grécia e a Peônia.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01005022
+# text = Finalmente, por volta de 512-511 a.C., o rei macedônio Amintas I aceitou o domínio dos Aquemênidas e rendeu o seu país como um estado vassalo à Pérsia aquemênida.
+S|NP
+	None
+		None
+
+# sent_id = w01005023
+# text = O multiétnico exército aquemênida possuía muitos soldados dos Balcãs.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01005024
+# text = Além disso, grande parte da elite macedônia e persa se casaram entre si.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01006027
+# text = Em 1912 foi fundada a primeira companhia cinematográfica (Athina Film) e em 1916 a Asty Film.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01006081
+# text = Em 2007 o filme mais bem-sucedido foi El Greco, dirigido por Yannis Smaragdis.
+S
+	None
+		None
+
+# sent_id = w01007004
+# text = Em julho de 1918, foi assinado o Tratado Franco-Monegasco, que previa uma limitada proteção francesa sobre Mônaco.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01007035
+# text = O órgão executivo é composto por um Ministro de Estado como chefe do governo, que preside um Conselho de Governo com cinco membros.
+S
+	None
+		None
+			None
+
+# sent_id = w01007070
+# text = A sua polícia inclui uma unidade especial que opera com barcos de patrulha e vigilância.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01007087
+# text = Os projetos atuais de recuperação de terra incluem a extensão do bairro de Fontvieille.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01008043
+# text = No entanto, há importantes diferenças na lei e no processo legal entre a Irlanda do Norte, a Inglaterra e o País de Gales.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01009010
+# text = A classificação Bergeron é a forma de classificação de massas de ar mais amplamente aceita.
+S
+	None
+		None
+			None
+
+# sent_id = w01009017
+# text = Enquanto a identificação de massas de ar foi originalmente usada nas previsões meteorológicas durante a década de 1950, os meteorologistas começaram a estabelecer climatologias sinóticas baseadas nessa ideia em 1973.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01009027
+# text = Uma monção é um vento predominante sazonal que dura vários meses, levando à estação das chuvas de uma região.
+S
+	None
+		None
+
+# sent_id = w01010044
+# text = Uma variedade de tribos germânicas e de grandes tribos eslavas atravessaram a Morávia durante o Período de Migração antes de os eslavos se estabelecerem no século VI a.C.
+S|NP
+	None
+		None
+
+# sent_id = w01010045
+# text = No final do século VIII o Principado da Morávia surgiu nas atuais Morávia do sudeste, Záhorie no sudoeste da Eslováquia e partes da Baixa Áustria.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01010046
+# text = Em 833 a.C. este tornou-se o estado da Grande Morávia com a conquista do Principado de Nitra (atual Eslováquia).
+S|NP
+	None
+		None
+
+# sent_id = w01010047
+# text = O seu primeiro rei foi Mojmir I (que governou de 830 a 846).
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01010048
+# text = Luís, o Germânico invadiu a Morávia e substituiu Mojmir I pelo seu sobrinho Ratislau, que se tornou São Ratislau.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01012052
+# text = Além disso, o estatuto determina a eleição da assembleia de regiões e distritos metropolitanos.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01013083
+# text = Embora a Islândia tenha estado sob controle político da Dinamarca até uma data muito mais avançada (1918), muito pouca influência e empréstimos linguísticos do Dinamarquês ocorreram na língua islandesa.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01013096
+# text = Também há línguas derivadas do Finlandês que evoluíram separadamente, conhecidas como Meänkieli na Suécia e Kven na Noruega.
+S
+	None
+		None
+			S|NP
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w01013102
+# text = A gradação das consoantes é uma característica no Finlandês e nos dialetos Sami do Norte, mas não está presente no Sami Sul, que se considera ter uma diferente história linguística.
+S
+	None
+		None
+			None
+
+# sent_id = w01014002
+# text = A parte norte do Cáucaso é conhecida como Ciscaucásia e a parte sul como Transcaucásia.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01016028
+# text = A atmosfera é um sistema caótico, por isso pequenas mudanças numa parte do sistema podem vir a provocar grande impacto no sistema como um todo.
+S
+	None
+		None
+
+# sent_id = w01016034
+# text = Durante a precipitação das chuvas, as gotas de água absorvem e dissolvem dióxido de carbono do ar ambiente.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01016070
+# text = Um exemplo recente de controle climático foi a preparação da China para os Jogos Olímpicos de Verão de 2008.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01017004
+# text = Formada pelas forças globais das placas tectônicas que criaram o Rifte Africano Oriental, a África Oriental está na região do Monte Kilimanjaro e do Monte Quênia, os dois picos mais altos da África.
+S|NP
+	None
+		S|NP
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w01017046
+# text = O último também espalhou o Islã para a faixa costeira, mas a maioria dos Bantus nunca teve contato com o Islã e permaneceu seguidora da Religião Africana Tradicional.
+S|NP
+	None
+		None
+
+# sent_id = w01018019
+# text = A França integrou a economia de Camarões na sua economia e melhorou as infraestruturas com investimentos de capital e mão-de-obra qualificada, modificando o sistema de trabalho forçado.
+S|NP
+	None
+		None
+
+# sent_id = w01018029
+# text = Em 1 de outubro de 1961, o antigo Camarões do Sul britânicos se uniram ao Camarões francês para formar a República Federal dos Camarões.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01018101
+# text = Os Resultados sobre as Piores Formas de Trabalho Infantil levantados pelo Departamento do Trabalho relataram que 56% das crianças com idades entre os 5 e os 14 anos são crianças que trabalham e que quase 53% das crianças com idades entre os 7 e os 14 anos conciliam trabalho e escola.
+S|NP
+	None
+		S|NP
+			None
+				None
+
+# sent_id = w01019014
+# text = O clima de Sahel é semelhante ao clima do deserto do Saara localizado a norte, ainda que não tão extremo.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01019073
+# text = De junho a agosto de 2010 a fome atingiu Sahel.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01020016
+# text = Várias civilizações antigas estavam localizadas em volta das margens do Mediterrâneo e foram fortemente influenciadas pela sua proximidade com o mar.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01020017
+# text = Ele forneceu rotas para o comércio, colonização e guerra, assim como comida (da pesca e da recolha de outros frutos do mar) a inúmeras comunidades ao longo dos tempos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = w01020018
+# text = Devido ao clima, geologia e acesso ao mar comuns, as culturas centradas no Mediterrâneo tendiam a estar de alguma forma interligadas cultural e historicamente.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01020019
+# text = Duas das mais notáveis civilizações do Mediterrâneo na antiguidade clássica foram as cidades-estado da Grécia e os Fenícios, ambos colonizando amplamente a linha costeira do Mediterrâneo.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w01020020
+# text = Mais tarde, quando Augusto fundou o Império Romano, os romanos se referiam ao Mediterrâneo como Mare Nostrum ("nosso mar").
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01022033
+# text = A Blindleia é um canal protegido por escolhos que começa perto de Kristiansand no sul da Noruega e continua após Lillesand.
+S
+	None
+		None
+
+# sent_id = w01022055
+# text = Em dinamarquês, a palavra pode até aplicar-se a lagoas de pouca profundidade.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01022092
+# text = Como os fiordes, os lagos de água doce são normalmente profundos.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01023074
+# text = Bebidas alcoólicas como cerveja, hidromel, bjórr (um vinho de fruta forte) e, para os ricos, vinho importado, foram servidas.
+S
+	None
+		None
+			None
+
+# sent_id = w01023120
+# text = Quaisquer que fossem as regras, as lutas muitas vezes resultavam na morte de um dos garanhões.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01025083
+# text = O Schlei e as regiões alagadas entre Danevirke e Husum tinham congelado em invernos rigorosos e o território imediatamente a sul de Danevirke tinha sido conquistado pelo avanço do exército alemão.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01025084
+# text = Esta retirada foi uma surpresa para o exército austro-prussiano, e quase todo o exército dinamarquês conseguiu completar a evacuação.
+S
+	None
+		None
+
+# sent_id = w01025085
+# text = Resultou, no entanto, no abandono de peças importantes de artilharia pesada, e continua sendo assunto de debate histórico o porquê de o caminho de ferro até Flensburgo nunca ter sido devidamente utilizado para a evacuação.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01025086
+# text = As notícias da retirada foram um grande choque para a opinião pública dinamarquesa, que sempre tinha considerado Danevirke inexpugnável, e o general de Meza foi prontamente dispensado do comando.
+S
+	None
+		None
+			None
+
+# sent_id = w01025087
+# text = Danevirke permanece propriedade alemã desde então.
+S|NP
+	None
+		None
+			S|NP
+				None
+
+# sent_id = w01026024
+# text = A quantidade de mercadorias transportadas no Danúbio aumentou para cerca de 100 milhões de toneladas em 1987.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01026037
+# text = A maior parte do delta do Danúbio fica na Romênia (distrito de Tulcea), enquanto a sua parte norte, na margem esquerda do braço de Chilia, está situada na Ucrânia (região de Odessa).
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01027007
+# text = O clima é tão seco que estas planícies são por vezes consideradas parte do Saara.
+S|NP
+	None
+		None
+
+# sent_id = w01027015
+# text = Ele difere da porção oeste do país porque suas características topográficas proeminentes não são paralelas à costa.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01027035
+# text = O norte da Argélia está na zona temperada e goza de um clima mediterrânico suave.
+S
+	None
+		None
+
+# sent_id = w01028004
+# text = O primeiro e mais importante foi o Rio Ohio, que corria para o Rio Mississippi.
+S
+	None
+		None
+			None
+
+# sent_id = w01028050
+# text = No centro do conflito estava a questão de o Kansas entrar para a União como um estado livre ou como um estado escravagista.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01028069
+# text = A reação nacional aos eventos do Kansas demonstrou quão profundamente dividido tinha se tornado o país.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01029015
+# text = Em termos de cor, as folhas podem ter uma grande diversidade de verdes, variando entre os amarelados e os azulados.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01029049
+# text = Os povos nativos americanos por toda a América confiavam nele como produto principal dos seus tratamentos médicos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01029083
+# text = As igrejas cristãs do noroeste da Europa e da Ucrânia muitas vezes usavam ramos de salgueiro em vez de folhas de palmeira nas cerimônias do Domingo de Ramos.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01030092
+# text = Os Alpes fornecem às terras baixas da Europa água potável, irrigação e energia hidroelétrica.
+S|NP
+	None
+		None
+
+# sent_id = w01030093
+# text = Ainda que a área represente apenas cerca de 11 por cento da superfície da Europa, os Alpes fornecem até 90 por cento da água para as terras baixas da Europa, especialmente para as regiões áridas e durante os meses de verão.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01030094
+# text = Cidades como Milão dependem de 80 por cento da água do escoamento superficial vindo dos Alpes.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01030095
+# text = A água dos rios é usada em mais de 500 centrais elétricas de energia hidroelétrica, gerando até 2.900 quilowatts de eletricidade.
+S
+	None
+		None
+			None
+
+# sent_id = w01030096
+# text = Os principais rios europeus fluem da Suíça, como o Reno, o Ródano, o Inn, o Ticino e o Pó, todos com nascentes nos Alpes e correndo para os países vizinhos, desaguando por fim no Mar do Norte, Mar Mediterrâneo, Mar Adriático e Mar Negro.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01031003
+# text = O estudo dos vulcões é chamado vulcanologia.
+NP
+	None
+		None
+			None
+
+# sent_id = w01031015
+# text = Este magma tende a ser muito viscoso devido ao seu elevado teor de sílica, por isso muitas vezes não atinge a superfície, esfriando na profundidade.
+S|NP
+	None
+		None
+
+# sent_id = w01031034
+# text = Geralmente não explodem catastroficamente.
+S
+	None
+		None
+			None
+
+# sent_id = w01032139
+# text = O aquecimento global causou uma mudança no padrão das estações chuvosas.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01033022
+# text = Contém uma lagoa minúscula, praticamente seca.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01033025
+# text = Foi declarado um santuário da vida selvagem em 1975.
+S
+	None
+		None
+			None
+
+# sent_id = w01033061
+# text = Investigação e expedições à ilha continuam.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01033067
+# text = Essas colonizações provavelmente começaram por volta de 1000 a.C., quando os melanésios orientais viajaram para norte.
+S|NP
+	None
+		None
+
+# sent_id = w01034023
+# text = Durante os anos da família no Kentucky e Indiana, Thomas Lincoln trabalhou como agricultor, marceneiro e carpinteiro.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01035079
+# text = A destruição de habitats aumenta extensamente a vulnerabilidade de uma área a desastres naturais, como inundações e secas, quebra de produções agrícolas, propagação de doenças e contaminação da água.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01035080
+# text = Por outro lado, um ecossistema saudável e com boas práticas de gestão reduzirá a possibilidade de estes acontecimentos ocorrerem ou, pelo menos, atenuará impactos negativos.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01035081
+# text = Terras agrícolas podem realmente sofrer com a destruição da paisagem ambiente.
+S|NP
+	None
+		None
+
+# sent_id = w01035082
+# text = Ao longo dos últimos 50 anos, a destruição de habitats que rodeiam terras agrícolas degradou aproximadamente 40% das terras agrícolas em todo o mundo através da erosão, salinização, compactação, esgotamento de nutrientes, poluição e urbanização.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01035083
+# text = Os seres humanos também perdem os usos diretos do habitat natural quando o habitat é destruído.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01036044
+# text = A Papua Nova Guiné é frequentemente rotulada como potencialmente o pior lugar no mundo em relação à violência de gênero.
+S
+	None
+		None
+			None
+
+# sent_id = w01036077
+# text = Estas famílias de plantas ainda estão presentes na Papua Nova Guiné.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01037024
+# text = A América do Norte e a América do Sul são tratadas como continentes separados no modelo de sete continentes.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01037080
+# text = Cristóvão Colombo navegou pelo Oceano Atlântico até às Índias Ocidentais em 1492, desencadeando um período de exploração europeia das Américas.
+S|NP
+	None
+		None
+
+# sent_id = w01038009
+# text = Estes não são muito populares devido às habituais localizações remotas e desprovidas de estradas.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01038016
+# text = Vários interesses privados possuem a terra restante, totalizando cerca de um por cento do estado.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01038022
+# text = Esta é também a única região do Alasca em que a temperatura média máxima diurna está acima de 0°C durante os meses de inverno.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01038044
+# text = Inúmeros povos indígenas ocuparam o Alasca durante milhares de anos antes da chegada dos povos europeus à região.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01039032
+# text = Foi aqui que eles roubaram uma pequena canoa deixada pelos aborígenes australianos da região.
+S|NP
+	None
+		None
+
+# sent_id = w01039058
+# text = Enquanto Brisbane crescia, as condições do rio pioraram até ao ponto de este não ser mais do que um esgoto aberto e um aterro sanitário.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01039065
+# text = 1987 foi proclamado "O Ano do Rio" pelo então Presidente da Câmara de Brisbane, Sallyanne Atkinson.
+NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w01040100
+# text = Tempestades de areia e poeira são eventos naturais que ocorrem em regiões áridas onde a terra não é protegida por uma cobertura de vegetação.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01040101
+# text = As tempestades de poeira geralmente começam nas margens do deserto, em vez de nos próprios desertos, onde os materiais mais finos já foram afastados pelo vento.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01040102
+# text = Enquanto um vento constante começa a soprar, partículas finas que estão no chão exposto começam a vibrar.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01040103
+# text = Com maiores velocidades de vento, algumas partículas são levantadas na corrente de ar.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01040104
+# text = Quando elas pousam, atingem outras partículas que por sua vez podem ser empurradas para o ar, iniciando uma reação em cadeia.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01041046
+# text = No entanto, na Tailândia, a urbanização também esteve na origem de aumentos maciços de problemas como a obesidade.
+S
+	None
+		None
+			None
+
+# sent_id = w01042055
+# text = As trovoadas são raras, conforme mostram os relatórios da cidade que reportam trovoadas em apenas sete dias por ano.
+S|NP
+	None
+		None
+
+# sent_id = w01043027
+# text = Em 1340, o Cairo tinha uma população de cerca de meio milhão, tornando-a a maior cidade a oeste da China.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01043065
+# text = Entretanto, os controles adicionais do Nilo fomentaram o desenvolvimento na Ilha de Gezira e ao longo da marginal da cidade.
+S|NP
+	None
+		None
+
+# sent_id = w01044010
+# text = As produções industriais de Nevada são o turismo, a mineração, a maquinaria, a impressão e publicação, o processamento alimentar e os equipamentos elétricos.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01045002
+# text = O nome “Caribe" deriva dos Caribs, um dos grupos indígenas americanos dominantes na região na altura do contato europeu durante o final do século XV.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01045003
+# text = Após a descoberta da América por Cristóvão Colombo em 1492, o termo espanhol Antillas se aplicou às terras; decorrente deste, "Mar das Antilhas" se tornou um nome alternativo comum para "Mar do Caribe" em várias línguas europeias.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01045004
+# text = Durante o primeiro século de desenvolvimento, o domínio espanhol na região permaneceu indisputado.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01045005
+# text = A partir do século XVI, os europeus que visitaram a região do Caribe identificaram o "Mar do Sul" (o Oceano Pacífico, a sul do istmo do Panamá) por oposição ao "Mar do Norte" (o Mar do Caribe, a norte do mesmo istmo).
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01045006
+# text = O Mar do Caribe tinha sido desconhecido para populações da Eurásia até 1492, quando Cristóvão Colombo primeiro navegou para as águas do Caribe em busca de uma rota marítima para a Ásia.
+S
+	None
+		None
+			None
+
+# sent_id = w01046011
+# text = Infelizmente, o rápido crescimento populacional e a expansão urbana cobriram grande parte destes ecossistemas com desenvolvimento.
+S|NP
+	None
+		None
+
+# sent_id = w01046056
+# text = O governo local da Cidade do Cabo é o Município da cidade do Cabo, que é um município metropolitano.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01047008
+# text = O estudo, publicado com o nome de Undersea, era uma narrativa vívida de uma viagem ao longo do fundo do oceano.
+S
+	None
+		S|NP
+			None
+
+# sent_id = w01047071
+# text = Ela também aproveitou os seus contatos pessoais com muitos cientistas do governo, que lhe forneceram informações confidenciais.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01047094
+# text = Em meados de 1962, Brooks e Carson tinham no geral terminado a edição e estavam lançando as bases para a promoção do livro enviando o manuscrito para selecionar pessoas para as sugestões finais.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01047104
+# text = Isso trouxe para o livro as atenções da indústria química e dos seus lobistas, bem como de uma ampla faixa da população americana.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01048027
+# text = Na década de 1350, o rei Gongmin estava finalmente livre para reformar o governo de Goryeo quando a dinastia Yuan começou a desmoronar.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01048090
+# text = Desde os anos 60, a economia sul-coreana cresceu enormemente e a estrutura econômica foi radicalmente transformada.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01049051
+# text = Geralmente envolve um baixo nível de elaboração, como áreas rústicas de piquenique, bancos e trilhas.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01049066
+# text = O Royal National Park da Austrália, fundado em 1879, foi o segundo parque nacional do mundo a ser oficialmente criado.
+S
+	None
+		S|NP
+			None
+				None
+					None
+						None
+
+# sent_id = w01049082
+# text = Em primeiro lugar e acima de tudo estava a provisão de espaço aberto para benefício das pessoas da cidade e residentes locais dentro de uma área que estava sendo construída rapidamente.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01050067
+# text = Com a queda da dinastia Qing em 1911, a Mongólia do Bogd Khaan declarou a independência.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01050068
+# text = Mas a recém-criada República da China considerou a Mongólia parte do seu próprio território.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01050069
+# text = Yuan Shikai, o Presidente da República da China, considerou que a nova república seria o sucessor dos Qing.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01050070
+# text = Bogd Khaan disse que tanto a Mongólia como a China tinham sido administradas pelos manchus durante os Qing, e após a queda da dinastia Qing em 1911, o contrato de submissão mongol aos manchus tinha se tornado inválido.
+S|NP
+	None
+		None
+
+# sent_id = w01050071
+# text = A área controlada pelo Bogd Khaan foi aproximadamente a da antiga Mongólia Exterior durante o período dos Qing.
+S
+	None
+		S|NP
+			None
+
+# sent_id = w01051032
+# text = Na pressa de capturar Kadesh, Ramsés II cometeu um grande erro tático.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01051080
+# text = De fato, o primeiro relatório acadêmico sobre a batalha, de James Henry Breasted em 1903, elogiou as fontes que permitiram a reconstrução da batalha com rigor.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01052022
+# text = Ramsés, logisticamente incapaz de manter um longo cerco, regressou ao Egito.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = w01052038
+# text = O faraó egípcio encontrou-se assim no norte de Amurru, bem depois de Kadesh, em Tunip, onde nenhum soldado egípcio tinha sido visto desde a época de Tutmés III, quase 120 anos antes.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01052046
+# text = Desta vez ele alegou ter lutado na batalha sem sequer se preocupar em vestir o seu corselete até duas horas depois de a luta começar.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01053015
+# text = O ano exato do casamento de Herodes Antipas e Herodíade é tema de debate entre os estudiosos.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01053031
+# text = Uma vez que Herodes estava em Jerusalém naquela época, Pilatos decidiu enviar Jesus a Herodes para ser julgado.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01053045
+# text = De acordo com o Novo Testamento, Paulo passou dezoito meses em Corinto, aproximadamente dezessete anos depois da sua conversão.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01053062
+# text = A última data só pode ter caído em uma sexta-feira se tivesse sido introduzido um mês extra naquele ano, mas isso foi o que Newton defendeu.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01053067
+# text = É possível determinar a fase da lua em um dia específico há dois mil anos, mas não se foi ocultada por nuvens ou neblina.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w01054107
+# text = Também foram construídos fortes nas partes mais antigas da Nova França que ainda não tinham sido colonizadas.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01056103
+# text = Estabeleceu a base para uma integração em que os mecanismos econômicos e judiciais do Estado poderiam ser aplicados em todo o Mediterrâneo, como já tinha sido feito a partir do Lácio para toda a Itália.
+S
+	None
+		None
+			None
+
+# sent_id = w01057006
+# text = Cada poema narra apenas uma parte da guerra.
+S|NP
+	None
+		None
+
+# sent_id = w01057016
+# text = Em épocas posteriores, dramaturgos, historiadores e outros intelectuais criariam obras inspiradas pela Guerra de Troia.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01057041
+# text = Foi predito que ele iria morrer de velhice depois de uma vida irrelevante, ou morrer jovem em um campo de batalha ganhando imortalidade através da poesia.
+S
+	None
+		None
+
+# sent_id = w01058009
+# text = No entanto isto foi revertido quando Juliano foi morto em batalha em 363.
+S
+	None
+		None
+			None
+
+# sent_id = w01058013
+# text = Acredita-se que os últimos Jogos Olímpicos tenham sido realizados em 393.
+S
+	None
+		None
+			None
+
+# sent_id = w01060037
+# text = Shen Kuo logo impressionou Wang Anshi com as suas capacidades e habilidades como administrador e agente do governo.
+S|NP
+	None
+		None
+
+# sent_id = w01060038
+# text = Em 1072, Shen foi enviado para supervisionar o estudo topográfico de Wang sobre a acumulação de sedimentos no Canal Bian, fora da capital.
+S
+	None
+		None
+			None
+
+# sent_id = w01060039
+# text = Usando uma técnica original, Shen dragou com sucesso o canal e demonstrou o extraordinário valor do lodo recolhido como fertilizante.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01060040
+# text = Ele ganhou reputação adicional na corte quando foi enviado como representante à Dinastia Liao dos Kitai no verão de 1075.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01060041
+# text = Os Kitai tinham feito várias negociações agressivas no sentido de empurrar as suas fronteiras para o sul, enquanto manipulavam vários embaixadores chineses incompetentes que cederam às exigências do Reino Liao.
+S|NP
+	None
+		None
+
+# sent_id = w01061050
+# text = A medicina também foi estudada, especialmente no sul da Itália, onde a medicina islâmica influenciou a escola em Salerno.
+S
+	None
+		None
+
+# sent_id = w01062037
+# text = Tibério supostamente lamentou a sua partida e pediu para regressar a Roma várias vezes, mas Augusto sempre recusou seus pedidos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01062063
+# text = Ele parece ter desejado que o Senado e o Estado simplesmente agissem sem ele, e as suas ordens diretas eram bastante vagas, inspirando um debate mais sobre o que ele realmente queria dizer do que sobre a aprovação da sua legislação.
+S|NP
+	None
+		None
+			None
+				S|NP
+					None
+
+# sent_id = w01063048
+# text = Os deuses representavam tipicamente as necessidades práticas da vida quotidiana, e eram escrupulosamente concedidos os ritos e oferendas considerados apropriados.
+S|NP
+	None
+		None
+
+# sent_id = w01064034
+# text = Isto foi de barco a partir da Europa continental.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01065018
+# text = Os vestígios cúlticos descobertos no local eram uma fileira de dez grandes pedras de pé, conhecidas como massebot, orientadas a norte-sul, a mais alta de 3 metros de altura, com uma estrutura tipo altar no meio e uma grande bacia quadrada de pedra.
+S
+	None
+		S|NP
+			None
+				None
+
+# sent_id = w01065019
+# text = O propósito exato destes megálitos ainda é debatido, mas eles podem ter constituído um "lugar alto" cananeu da Idade do Bronze Média, cerca de 1600 a.C.
+S
+	None
+		None
+			None
+
+# sent_id = w01065020
+# text = A cidade cananeia foi destruída em um incêndio, presumivelmente na sequência de uma campanha do faraó egípcio Tutmés III.
+S
+	None
+		None
+			None
+
+# sent_id = w01065021
+# text = A mais antiga referência histórica conhecida à cidade é encontrada em uma inscrição de locais conquistados no templo de Tutmés em Karnak.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01065022
+# text = As cartas de Tell Amarna, que datam do século XIV a.C., incluem dez cartas dos reis de Gezer jurando lealdade ao faraó egípcio.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01066003
+# text = Os certificados de nascimento tailandeses registram a data, o mês e a hora do nascimento, seguidos do dia da semana, da data lunar e do nome do animal do zodíaco aplicável.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01066006
+# text = O seu animal do zodíaco é o Macaco e o seu tradicionalmente significativo ano do sexagésimo aniversário foi 1992.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01066008
+# text = As auspiciosas cores tailandesas do dia são dadas na tabela de dias úteis, seguidas abaixo por um link para as imagens do Buda para cada dia da semana.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01066040
+# text = O Ano Novo Chinês e outras celebrações observadas pelo chinês tailandês variam em relação a ambos, uma vez que estes são calculados de acordo com o calendário chinês.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01067032
+# text = Além disso, ele reforçou as defesas entre o Egito e a Ásia, construindo as Muralhas do Soberano na região do Delta leste.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01067059
+# text = Ele reinou apenas quinze anos, o que é evidenciado pela natureza incompleta de muitas das suas construções.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01067103
+# text = Apesar disto, ambos parecem ter mantido pelo menos partes do baixo Egito.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01068027
+# text = Em 9 de setembro de 2002, Aldrin foi atraído para um hotel de Beverly Hills sob o pretexto de ser entrevistado para um programa infantil japonês de televisão sobre o tema do espaço.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01068056
+# text = Aldrin foi casado três vezes.
+S
+	None
+		None
+			None
+
+# sent_id = w01069007
+# text = Em 1519, tornou-se governante do império de Habsburgo, e ganhou o título de Imperador do Sacro Império Romano em 1530.
+S
+	None
+		None
+
+# sent_id = w01069040
+# text = Carlos, apesar das suas duras ações, tinha sido visto como um soberano solidário com as necessidades da Holanda.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01069056
+# text = Em 1566, uma liga de cerca de 400 membros da nobreza apresentou uma petição à governadora Margaret de Parma para suspender a perseguição até que os outros regressassem.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01069094
+# text = A sua luta contra o Império Otomano no Mar Mediterrâneo colocou sérias limitações sobre o poder militar que poderia empregar contra os rebeldes na Holanda.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01070031
+# text = Um observatório astronômico da Idade do Bronze foi construído por volta de 1900 a.C. e serviu continuamente a comunidade vizinha que lá viveu até cerca de 700 a.C.
+S
+	None
+		None
+			None
+
+# sent_id = w01070032
+# text = O espaço central foi usado para observar o nascer do sol e da lua cheia.
+S
+	None
+		None
+			None
+
+# sent_id = w01070033
+# text = Três marcas localizam o nascer do sol nos solstícios de verão e inverno e nos dois equinócios.
+S|NP
+	None
+		None
+
+# sent_id = w01070034
+# text = Outras quatro dão as declinações mínimas e máximas da lua cheia: no verão e no inverno.
+S|NP
+	None
+		None
+
+# sent_id = w01070035
+# text = Duas medem as durações dos meses lunares.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01071036
+# text = A sua importância reside em dois fatos.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01071043
+# text = Durante o período pós-clássico em Iucatão, um terceiro sistema estava em uso.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01072002
+# text = A origem da palavra Hispânia é muito discutida e as evidências para as várias especulações se baseiam apenas naquilo que, no melhor dos cenários, são meras semelhanças, suscetíveis de serem acidentais, e provas suspeitas.
+S
+	None
+		None
+			None
+
+# sent_id = w01072046
+# text = Mas o impacto da Península Ibérica nos recém-chegados também foi grande.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01072065
+# text = Durante as primeiras etapas da romanização, a península foi dividida em dois pelos romanos com propósitos administrativos.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01072079
+# text = No terceiro século, o imperador Caracala fez uma nova divisão que durou apenas um curto período de tempo.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01073007
+# text = Eles estavam tão comovidos com a beleza da área do lago Rudyard que, quando o seu primeiro filho nasceu, a mencionaram ao lhe darem o nome.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01073042
+# text = Durante o seu tempo ali, Kipling também conheceu e se apaixonou por Florence Garrard, que estava embarcando com Trix em Southsea (para onde Trix tinha regressado).
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01073054
+# text = Stephen Wheeler, o editor, trabalhou arduamente para Kipling, mas a necessidade que Kipling tinha de escrever era imparável.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01073067
+# text = De volta a Lahore, cerca de trinta e nove histórias apareceram na Gazette entre novembro de 1886 e junho de 1887.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01073075
+# text = Nessa época, ele pensava cada vez mais no futuro.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01074088
+# text = Jin Ping Mei, publicado em 1610, embora integrando material anterior, marca a tendência para a composição independente e para a preocupação com a psicologia.
+S|NP
+	None
+		S|NP
+			None
+				None
+
+# sent_id = w01075036
+# text = O aumento das matrículas masculinas no ensino médio, o rendimento per capita e o índice de crescimento econômico tiveram efeitos significativos na redução da possibilidade de guerra civil.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01075037
+# text = Especificamente, matrículas masculinas no ensino médio 10% acima da média reduziram a possibilidade de um conflito em cerca de 3%, enquanto uma taxa de crescimento 1% maior que a média do estudo originou uma diminuição na possibilidade de uma guerra civil de cerca de 1%.
+S|NP
+	None
+		None
+
+# sent_id = w01075038
+# text = O estudo interpretou estes três fatores como representantes indiretos do ganho potencial desperdiçado por uma rebelião, e portanto que um menor ganho potencial desperdiçado encorajaria à rebelião.
+S|NP
+	None
+		None
+
+# sent_id = w01075039
+# text = Dito de outra forma: os jovens do sexo masculino (que constituem a grande maioria dos combatentes em guerras civis) são menos propensos a se juntar a uma rebelião se estão recebendo uma educação ou tendo um salário confortável e podem razoavelmente assumir que vão prosperar no futuro.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01075040
+# text = Baixo rendimento per capita foi proposto como causa de reclamação, levando à rebelião armada.
+S
+	None
+		None
+			None
+
+# sent_id = w01076039
+# text = A sua garantia de liberdades prometeu dissolver as tensões entre comunas e transformar o império em um lugar mais harmonioso.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01076054
+# text = A revolta árabe que começou em 1916 inverteu a tendência contra os otomanos na frente do Oriente Médio, onde inicialmente pareciam ter a vantagem durante os dois primeiros anos da guerra.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01078013
+# text = Ele discute especificamente em várias passagens os efeitos social e culturalmente degenerativos da guerra à própria humanidade.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01079038
+# text = O padre dominicano Heinrich Kramer foi assistente do arcebispo de Salzburgo.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01079049
+# text = Em 1538, a Inquisição espanhola advertiu os seus membros para não acreditarem em tudo o que Malleus dizia.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01079057
+# text = O batismo forçado era contrário à lei da Igreja Católica e, teoricamente, qualquer um que tivesse sido batizado à força poderia legalmente retornar ao judaísmo.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01079077
+# text = A Espanha tinha expulsado a sua população sefardita em 1492; muitos desses judeus espanhóis trocaram Espanha por Portugal, mas acabaram por ser alvos lá também.
+S|NP
+	None
+		None
+
+# sent_id = w01080128
+# text = A fronteira oriental da Macedônia com a Trácia estava agora segura no rio Nesto (Mesta).
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01080129
+# text = Filipe marchou contra os seus inimigos do sul.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01080130
+# text = Na Tessália, ele derrotou os seus inimigos e em 352 estava firmemente no controle desta região.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01080131
+# text = O exército macedônio avançou até à passagem das Termópilas, que divide a Grécia em duas partes, mas não tentou tomá-la porque era fortemente protegida por uma força conjunta de atenienses, espartanos e aqueus.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01080132
+# text = Tendo assegurado as regiões fronteiriças da Macedônia, Filipe reuniu um grande exército macedônio e marchou para o interior da Trácia para uma longa campanha de conquista.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01081030
+# text = Catarina da Rússia também ficou muito satisfeita.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01082055
+# text = Durante a guerra, Pearl Harbor foi frequentemente usado na propaganda americana.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01083007
+# text = Essa visão idealizada da monarquia dos Romanov o cegou relativamente ao estado real de seu país.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01083021
+# text = O Império Russo era uma aglomeração de etnias diversas que tinham mostrado sinais significativos de desunião nos anos antes da Primeira Guerra Mundial.
+S
+	None
+		None
+			None
+
+# sent_id = w01084085
+# text = Esta cidade-estado emergiu no mesmo período como Sukhothai.
+S|NP
+	None
+		None
+
+# sent_id = w01084102
+# text = Este contato com o Ocidente durante o século XVI levou a um período de profundo crescimento econômico à medida que rotas comerciais lucrativas foram estabelecidas.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01085004
+# text = O Exército teve um bom desempenho em combate em Cuba.
+S|NP
+	None
+		None
+
+# sent_id = w01085005
+# text = No entanto, estava muito centrado em pequenas posições no Ocidente e não tão bem preparado para um conflito no exterior.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01085006
+# text = Contava com voluntários e unidades de milícias estaduais, que enfrentaram problemas de logística, formação e alimentação nas áreas de preparação na Flórida.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w01085007
+# text = Os Estados Unidos libertaram Cuba (depois de uma ocupação pelo Exército dos EUA).
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01085008
+# text = Conforme o tratado de paz, a Espanha cedeu aos Estados Unidos as suas colônias de Porto Rico, Guam e Filipinas.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01086012
+# text = A ofensiva contra o enorme exército recrutado por Veneza foi lançada a partir da França.
+S
+	None
+		None
+			None
+
+# sent_id = w01086037
+# text = Em 1563, a população de Veneza reduziu para cerca de 168.000 pessoas.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01087052
+# text = A educação durante a Renascença foi composta principalmente por literatura antiga e história, uma vez que se pensava que os clássicos forneciam instrução moral e uma compreensão intensiva do comportamento humano.
+S
+	None
+		None
+			None
+
+# sent_id = w01088099
+# text = Contudo, tem havido uma extensa análise estatística dos dados demográficos e populacionais que incluem as mulheres, especialmente no que diz respeito ao seu papel na reprodução.
+S
+	None
+		None
+
+# sent_id = w01089017
+# text = A maioria da informação sobre o período vem dos locais de enterro e dos bens funerários contidos neles.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01089040
+# text = Nesse momento, havia apenas cerca de quarenta famílias vivendo lá com abundância de boas terras agrícolas e pastagens para o gado.
+S
+	None
+		None
+			None
+
+# sent_id = w01089068
+# text = Como a Grécia enviou colônias para oeste em direção à Sicília e Itália (Pithekoussae, Cumae), a influência do seu novo alfabeto se estendeu ainda mais.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01091016
+# text = Bananas e plátanos, que foram naturalizados pela primeira vez no Sudeste Asiático, provavelmente na Papua Nova Guiné, foram naturalizados novamente na África, possivelmente há 5.000 anos.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01091045
+# text = Além de ser uma fonte direta de alimento, determinados animais poderiam fornecer couro, lã, peles e fertilizantes.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01092019
+# text = Uma mudança fundamental nos princípios do trabalho foi provocada pelo escocês James Watt.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01092032
+# text = A Revolução Industrial criou uma procura por peças metálicas usadas em máquinas.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01093028
+# text = Na Segunda Guerra Messênia, Esparta se impôs como um poder local no Peloponeso e no resto da Grécia.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01094022
+# text = Ford T foi proclamado como o carro mais influente do século XX nos prêmios internacionais Carro do Século.
+NP
+	None
+		None
+
+# sent_id = w01094066
+# text = O sucesso dos modelos Rambler de tamanho compacto da American Motors estimulou a GM e a Ford a introduzirem os seus próprios carros reduzidos em 1960.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01095089
+# text = Esta convenção foi apenas um pouco flexibilizada na idade moderna e hoje em dia é ainda desaconselhável, entre os amigos, usar o nome próprio, mas o uso do nome de família ainda é comum.
+S
+	None
+		None
+
+# sent_id = w01095090
+# text = No caso da família imperial, considera-se extremamente inapropriado usar o nome próprio.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = w01095091
+# text = Desde o Imperador Meiji, tem sido costume ter uma era por Imperador e renomear cada Imperador após a sua morte usando o nome da época sobre a qual ele presidiu.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01095092
+# text = Antes do Imperador Meiji, os nomes das eras eram mudados com mais frequência, e os nomes póstumos dos Imperadores eram escolhidos de uma maneira diferente.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01095093
+# text = Fora do Japão, começando com o Imperador Shōwa, os Imperadores são muitas vezes referidos pelos seus nomes próprios, tanto em vida, como postumamente.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01096013
+# text = Na Ásia e no Pacífico, entre 3 milhões e mais de 10 milhões de civis, na sua maioria chineses (calculados em 7,5 milhões), foram mortos pelas forças de ocupação japonesas.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01096055
+# text = Na Europa, antes da explosão da guerra, os Aliados tinham vantagens significativas, tanto populacionais como econômicas.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01096074
+# text = A guerra terrestre passou das estáticas linhas da frente da Primeira Guerra Mundial para uma elevada mobilidade e armas combinadas.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01097059
+# text = Os soldados de cavalaria britânica também receberam um excelente treino de manejo de espada a cavalo.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01097104
+# text = Alguns historiadores, como Chandler e Weller, afirmam que a cavalaria pesada britânica foi destruída como força viável depois do seu primeiro e épico ataque.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01098043
+# text = De acordo com um estudo genético sobre dados autossômicos em Roma, a fonte da ascendência da Ásia do Sul em Roma é o noroeste da Índia.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01099012
+# text = As explicações sobre a origem da música dependem de como a música é definida.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01099045
+# text = Entre os seres humanos, tanto homens como mulheres são cantores fervorosos, e fazer música é principalmente uma atividade comunitária.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01100046
+# text = Em 1839, a China se encontrava travando a Primeira Guerra do Ópio com a Grã-Bretanha depois de o governador-geral de Hunan e Hubei, Lin Zexu, proibir o comércio estrangeiro de ópio.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01100047
+# text = A China foi derrotada e em 1842 concordou com as disposições do Tratado de Nanquim.
+S
+	None
+		None
+
+# sent_id = w01100048
+# text = A ilha de Hong Kong foi cedida à Grã-Bretanha, e certos portos, incluindo Xangai e Cantão, foram abertos ao comércio e à residência britânica.
+S
+	None
+		None
+			None
+
+# sent_id = w01100049
+# text = Em 1856, a Segunda Guerra do Ópio estourou; os chineses foram novamente derrotados e forçados aos termos do Tratado de Tientsin de 1858 e da Convenção de Pequim de 1860.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01100050
+# text = O tratado abriu novos portos ao comércio e permitiu que os estrangeiros viajassem ao interior.
+S|NP
+	None
+		None
+
+# sent_id = w01101020
+# text = Lamarr acompanhou Mandl em reuniões de negócios onde ele conferenciou com cientistas e outros profissionais envolvidos na tecnologia militar.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01101046
+# text = As primeiras invenções de Lamarr incluem um semáforo de trânsito melhorado e uma pastilha que se dissolvia em água para criar uma bebida gaseificada.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01101084
+# text = Foram-lhe oferecidos vários roteiros, anúncios televisivos e projetos de palco, mas nenhum despertou o seu interesse.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01102020
+# text = Joseph Darnand, que se tornou oficial da SS e liderou os paramilitares da Milice que perseguiram membros da Resistência, foi executado em outubro de 1945.
+S
+	None
+		None
+			None
+
+# sent_id = w01102040
+# text = De Gaulle informou que não haveria demonstrações excessivas de afeto público em relação a Churchill nem nenhum prêmio oficial sem o seu prévio consentimento.
+S|NP
+	None
+		None
+
+# sent_id = w01103022
+# text = O filme narra a destruição da vida e carreira de Carangi como resultado do seu vício em heroína, e o seu declínio e morte por AIDS em meados da década de 1980.
+S|NP
+	None
+		None
+
+# sent_id = w01105053
+# text = Foi terminado bastante tarde na guerra; embora alguns B-29s estivessem equipados com Eagle e funcionasse bem, veio tarde demais para fazer grande diferença.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01105054
+# text = O sistema de radar pelo qual Alvarez é mais conhecido e que tem desempenhado um papel importante na aviação, mais particularmente no transporte aéreo de Berlim no pós-guerra, foi o Ground Controlled Approach (GCA).
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01105055
+# text = Utilizando a antena dipolode Alvarez para obter uma resolução angular bem alta, o GCA permite que os operadores de radar terrestre assistam a exibições de precisão especial para guiar um avião pousando para a pista transmitindo comandos verbais ao piloto.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01105056
+# text = O sistema era simples, direto e funcionava bem, mesmo com pilotos que não tinham sido previamente treinados.
+S|NP
+	None
+		None
+
+# sent_id = w01105057
+# text = Foi tão bem sucedido que os militares continuaram a usá-lo durante muitos anos após a guerra e ainda estava em uso em alguns países na década de 1980.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01106021
+# text = Com o crescimento populacional, foram criados novos bairros indígenas.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01106052
+# text = Os rebeldes da Aliança de Forças Democráticas para a Libertação do Congo capturaram Lubumbashi em abril de 1997.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01106073
+# text = A alta altitude serve para resfriar o clima, que de outra forma seria muito quente.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01107013
+# text = A falta de saúde reduziu a produção de Hitchcock durante as duas últimas décadas da sua vida.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01107063
+# text = Os filmes de Hitchcock às vezes apresentam personagens que têm dificuldades nos seus relacionamentos com as mães.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01107124
+# text = Hitchcock preferiu trabalhar com os melhores talentos do seu tempo - designers de cartazes de filmes como Bill Gold e Saul Bass - que iriam produzir pôsteres que representassem seus filmes com precisão.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = w01108036
+# text = Um conflito mental prendeu Herzl, entre o desejo pelo sucesso literário e o desejo de agir como uma figura pública.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01108063
+# text = Em 10 de março de 1896, Herzl foi visitado pelo Reverendo William Hechler, o pastor anglicano da Embaixada Britânica.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01109009
+# text = Durante um episódio, ele é mostrado como um exímio guitarrista.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01109036
+# text = Lenny é um solteirão persistente que tem má sorte com as mulheres.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01109120
+# text = Em uma ocasião, é insinuado que ele é um agente secreto cujo alvo é Homer.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01111021
+# text = Decidindo seguir o teatro, Winstone se matriculou na Corona Stage Academy em Hammersmith.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01111089
+# text = Winstone conheceu sua esposa, Elaine, enquanto filmava That Summer em 1979.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01111093
+# text = Winstone foi declarado falido em 4 de outubro de 1988 e novamente em 19 de março de 1993.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+											None
+
+# sent_id = w01112060
+# text = A Disney também descobriu que a Universal detinha os direitos de propriedade intelectual de Oswald.
+S|NP
+	None
+		None
+
+# sent_id = w01112098
+# text = A Disney ganhou outro Prêmio Honorário da Academia, que consistia em uma estatueta do Oscar de tamanho normal e sete em miniatura.
+S|NP
+	None
+		None
+
+# sent_id = w01113033
+# text = Este cartão dá um auxílio que pode ser retirado em caixas eletrônicos, a fim de comprar material escolar, como livros e uniformes.
+S|NP
+	None
+		None
+
+# sent_id = w01113046
+# text = Ele também construiu e renovou cinco mercados tradicionais em 2013 e quatro mercados tradicionais em 2014.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01113058
+# text = No entanto, seu rival Prabowo Subianto também declarou vitória, deixando os cidadãos indonésios confusos.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01113074
+# text = Antes de assumir o cargo, Jokowi procurou que o presidente de saída, Yudhoyono, assumisse a responsabilidade pela decisão de aumentar mais os preços dos combustíveis, ao remover ainda mais os auxílios.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01114053
+# text = Sua biografia oficial também afirma que Kim compôs seis óperas e gosta de encenar musicais elaborados.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01115022
+# text = Com o conselho de Alexander, ele conseguiu chegar a um acordo: ele iria para uma universidade, mas iria estudar literatura.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01115023
+# text = Barrie se matriculou na Universidade de Edimburgo, onde escreveu críticas de teatro para o Edinburgh Evening Courant.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01115024
+# text = Ele obteve um Mestrado (em Artes) em 21 abril 1882.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01115025
+# text = Seguindo um anúncio de emprego encontrado pela sua irmã no The Scotsman, ele trabalhou durante um ano e meio como jornalista contratadono Nottingham Journal.
+S|NP
+	None
+		None
+			None
+				S|NP
+					None
+						None
+
+# sent_id = w01115026
+# text = Depois voltou para Kirriemuir.
+S
+	None
+		None
+
+# sent_id = w01116036
+# text = Fora publicadas apenas 3.000 cópias da primeira edição.
+S
+	None
+		None
+
+# sent_id = w01116088
+# text = Em 2009, as vendas totais de O Poder do Agora e Uma Nova Terra na América do Norte foram calculadas em três milhões e cinco milhões de cópias, respectivamente.
+S
+	None
+		None
+			None
+
+# sent_id = w01116100
+# text = Alguns estudiosos cristãos criticam os ensinamentos de Tolle, enquanto outros os elogiam.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01117009
+# text = Entre 1991 e 1997, ela dirigiu uma escola para crianças com dificuldades de aprendizagem.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01117029
+# text = A sua última obra não ficcional é sobre Margaret Douglas, condessa de Lennox.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01117034
+# text = Ela achou fácil a transição para a ficção, e explicou: "Cada livro é uma curva de aprendizagem e você tem que manter uma mente aberta".
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01119059
+# text = Para evitar passar por um dilema semelhante com Jasmine, os cineastas decidiram em última instância ter a princesa animada inteiramente em um estúdio.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = w01119076
+# text = Com a sua aparência finalizada, Jasmine se tornou a primeira princesa não branca da Disney em contraste com a herança europeia.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01119100
+# text = Tematicamente, Jasmine também representa os direitos civis, a tolerância racial, a hierarquia social, assim como a vida, a liberdade e a busca da felicidade.
+S|NP
+	None
+		None
+
+# sent_id = w01121052
+# text = No entanto, não houve mais reconhecimento público da sua resistência à guerra e do seu trabalho humanitário até depois do fim do regime comunista na Polônia.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01122031
+# text = Really Really Love You foi lançado em agosto e chegou ao top 50; "Shaky Ground", o single relacionado, apareceu em setembro, mas Geyer já estava nos EUA.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01122064
+# text = Tendo desfrutado do auge da carreira no seu país, a Austrália, Geyer retornou em 1984 para viver em Los Angeles e focar em entrar na sua cena musical.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01124011
+# text = Depois de o seu progresso ter parado no 96º lugar da Billboard 200, Thought 'Ya Knew subiu para o 31º lugar no Reino Unido, mas o álbum entrou na lista por apenas duas semanas no Reino Unido.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01124049
+# text = Após a sua demissão, Peniston aceitou o papel de Glinda, a Bruxa Boa, em uma produção teatral do musical The Wiz.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01125034
+# text = Wilkes foi reeleito e expulso mais duas vezes, antes de a Câmara dos Comuns decidir que a sua candidatura era inválida e declarar o segundo classificado vencedor.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01125035
+# text = O governo de Grafton se desintegrou em 1770, permitindo que os Tories liderados por Lord North voltassem ao poder.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01125036
+# text = George era profundamente devoto e passava horas em oração, mas sua devoção não era compartilhada por seus irmãos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01125037
+# text = George ficou chocado com aquilo que ele via como moral frouxa.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01125038
+# text = Em 1770, seu irmão, o príncipe Henrique, duque de Cumberland e Strathearn, foi expostocomo um adúltero, e no ano seguinte Cumberland casou com uma jovem viúva, Anne Horton.
+S
+	None
+		None
+			None
+
+# sent_id = w01127071
+# text = Seu álbum de 1981, Wild West, foi uma das suas maiores vendas.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01127096
+# text = A esta altura, os gastos extravagantes e uma série de maus investimentos pelos seus investidores a tinham deixado quase falida.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01128053
+# text = Em junho de 2012, a banda islandesa Sigur Rós lançou um vídeo para a música "Fjögur Píanó", protagonizado por LaBeouf, no qual ele aparece nu.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01128059
+# text = Louis Post Dispatch o chamou de um dos melhores desempenhos de LaBeouf.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01129019
+# text = O carro incendiou e Kenseth foi embora.
+S|NP
+	None
+		None
+
+# sent_id = w01129037
+# text = Elliott estava presente no funeral do seu pai no dia da corrida.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01129053
+# text = Em 2003, dominou na classificação geral de pontos e liderou as últimas 33 de 36 corridas, se tornando o campeão da NASCAR Winston Cup 2003, o último piloto a ter esse título.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01130099
+# text = Rafferty lançou mais dois álbuns na década de 1990 naquilo que o músico Tom Robinson descreveu mais tarde como "um grande retorno à forma".
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01130100
+# text = Em On a Wing and a Prayer (1992) se reuniu com o seu colega dos Stealers Wheel, Egan, em diversas faixas.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w01130101
+# text = Ele incluiu três faixasco-escritascom o irmão de Rafferty, Jim, também cantor e compositor, que tinha assinado com a Decca Records na década de 1970.
+S|NP
+	None
+		None
+			S|NP
+				None
+
+# sent_id = w01130102
+# text = Rafferty gravou uma nova versão da sua canção dos Humblebums "Her Father Didn't Like Me Anyway" no álbum Over My Head (1994).
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01130103
+# text = Estes foram os dois últimos discos produzidos por Rafferty com Hugh Murphy, que morreu em 1998.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01131060
+# text = Pelo menos 330.000 pessoas, incluindo 10.000 técnicos, estiveram envolvidas.
+S|NP
+	None
+		S|NP
+			None
+				None
+					None
+						None
+
+# sent_id = w01131076
+# text = Stalin tinha começado a encorajar Abakumov a formar sua própria rede dentro do MGB para combater o domínio de Beria dos ministérios do poder.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01132042
+# text = Os padrões apresentados pelos dados da região de Petén e Uaxactun permitiram que esses locais se encaixassem no desenvolvimento cultural da planície maia.
+S|NP
+	None
+		S|NP
+			None
+
+# sent_id = w01132056
+# text = O artigo de Thompson pressupõe que os maias eram, em última instância, um povo "pacífico", uma vez que não tinham defesas visíveis.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01132081
+# text = As velas não são representadas na iconografia ou nos textos pré-históricos mesoamericanos, em vez disso, é teorizado que as canoas foram, para os maias antigos, uma primeira forma de transportar água.
+S
+	None
+		None
+
+# sent_id = w01133014
+# text = Starlin assumiu o tema seguinte como argumentista, e começou a desenvolver um elaborado arco de histórias centrado no vilão Thanos, que se estendeu a uma série de títulos Marvel.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01133016
+# text = Ao mesmo tempo, em meados dos anos 1970, Starlin contribuiu com um conjunto de histórias para a antologia de ficção científica publicada independentemente, Star Reach.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01134009
+# text = Através da sua avó, Mishima era um descendente direto de Tokugawa Ieyasu.
+S
+	None
+		None
+			None
+
+# sent_id = w01134062
+# text = Em 1955, Mishima começou o treino de musculação e o seu regime de treino de três sessões por semana não foi interrompido durante os últimos 15 anos de sua vida.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01134078
+# text = Mishima adotou um tipo de nacionalismo muito singular no final da sua vida.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01135034
+# text = Em 2011, Blunt foi nomeada embaixadora da nova fragrância da Yves Saint Laurent, Opium.
+NP
+	None
+		None
+			None
+
+# sent_id = w01135035
+# text = Blunt protagonizou o filme de comédia britânica Amor Impossível (Salmon Fishing in the Yemen) de 2011, realizado por Lasse Hallström e coprotagonizado por Ewan McGregor e Kristin Scott Thomas.
+S|NP
+	None
+		None
+			S|NP
+				None
+					None
+						None
+							None
+
+# sent_id = w01135036
+# text = Também naquele ano, ela apareceu brevemente em Os Muppets da Disney como recepcionista de Miss Piggy.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01135037
+# text = Ela protagonizou o filme de 2012, Cinco Anos de Noivado (The Five-Year Engagement), realizado por Nicholas Stoller e coprotagonizado por Jason Segel.
+S|NP
+	None
+		None
+			S|NP
+				None
+					None
+						None
+
+# sent_id = w01135038
+# text = Em janeiro de 2011, Blunt começou a gravar um filme americano de ficção científica, Looper, realizado por Rian Johnson e coprotagonizado por Bruce Willis e Joseph Gordon-Levitt; o filme foi lançado em setembro de 2012.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01136029
+# text = Valentino tentou distanciar a personagem de um retrato estereotipado de um homem árabe.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01136074
+# text = Joseph Schenck estava interessado em selecionar a sua esposa, Norma Talmadge, para contracenar comValentino em uma versão de Romeu e Julieta.
+S|NP
+	None
+		None
+
+# sent_id = w01137050
+# text = Lord Halifax, Senhor Presidente do Conselho, visitou a Alemanha confidencialmente em novembro e se encontrou com Hitler e outros oficiais alemães.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01137068
+# text = Dirigindo-se ao Gabinete pouco depois de as forças alemãs terem cruzado a fronteira, Chamberlain culpou a Alemanha e a Áustria.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01137087
+# text = Em maio, os guardas de fronteira checos atiraram em dois fazendeiros alemães dos Sudetas que tentavam atravessar a fronteira para a Checoslováquia sem parar nos controles de fronteira.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01138045
+# text = Durante este tempo, Marcelle foi deixada frequentemente sozinha no quarto enquanto Piaf e Mômone estavam nas ruas ou cantando no clube.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w01139043
+# text = Estes foram quase completamente esquecidos até à morte de Smith.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01139090
+# text = Outro tema dos romances de Skylark envolve precursores da tecnologia da informação moderna.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01140030
+# text = Já em 1926, Meyer tinha escrito a Irène Joliot-Curie sugerindo que Rona trabalhasse com ela para entender como o seu laboratório poderia fazer as suas próprias amostras de polônio.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01140031
+# text = Uma vez que Hans Pettersson conseguiu obter fundos para pagar as despesas de Rona, Joliot-Curie permitiu que ela fosse estudar a separação do polônio no Instituto Curie em Paris.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01140032
+# text = Rona desenvolveu um método melhorado de preparação de fontes de polônio e produção de emissões alfa.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01140033
+# text = Ganhando reconhecimento como perita na área, ela levou essas capacidades de volta para o Instituto Curie, juntamente com um pequeno discode polônio.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01140034
+# text = Este discopermitiu a Rona criar amostras laboratoriais de polônio, que foram utilizadas em grande parte da investigação subsequente do Instituto.
+S|NP
+	None
+		None
+
+# sent_id = w01141025
+# text = Durante a baixa estação de 2013, ela apareceu na CTV Montreal como apresentadora do tempo convidada.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01141077
+# text = Em seguida, enfrentou a atual campeã e cabeça de chave Sara Errani, mas foi derrotada.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01141137
+# text = Bouchard sofreu uma derrota chocante de três sets.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01142013
+# text = Quando sua filha Cecília se casou com Ricardo Plantageneta, o 3º Duque de York, e teve vários filhos, incluindo Eduardo IV e Ricardo III, Joana se tornou avó de dois reis da dinastia York de Inglaterra.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01142031
+# text = John de Gaunt morreu em 1399.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01142063
+# text = O cavaleiro Lyvet foi solto e seu seguidor foi jogado na Torre.
+S
+	None
+		None
+			None
+
+# sent_id = w01143015
+# text = Não há muito tempo, ele estava divorciado da atriz, Gloria Holden, mas continuava apaixonado por ela após a divergência conjugal.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01143037
+# text = Ele coprotagonizou como irmão mais novo de Humphrey Bogart, um playboy despreocupado, em Sabrina (1954), interpretada por Audrey Hepburn.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w01144031
+# text = Ele escolheu não procurar um terceiro mandato no ciclo eleitoral seguinte.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w01144056
+# text = A campanha presidencial de 1980 entre Reagan e o presidente em exercício Jimmy Carter foi conduzida durante preocupações domésticas e a crise de reféns no Iran.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01144063
+# text = Os republicanos conquistaram o Senado pela primeira vez desde 1952, e ganharam 34 assentos da Câmara, mas os democratas mantiveram a maioria.
+S|NP
+	None
+		None
+
+# sent_id = w01144084
+# text = Se recuperou e teve alta do hospital a 11 de abril, se transformando no primeiro Presidente dos Estados Unidos em exercício a sobreviver depois de ter sido baleado em uma tentativa de homicídio.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = w01144086
+# text = Reagan acreditava que Deus tinha poupado a sua vida para que ele pudesse continuar e cumprir um propósito maior.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = w01146051
+# text = Bloch está preocupado em estabelecer a esperança como o princípio orientador do seu marxismo e salienta o humanismo implícito inerente à tradição mística.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01146099
+# text = Uma teologia adequada teria, portanto, que ser construída à luz do seu objetivo futuro.
+S
+	None
+		None
+
+# sent_id = w01147010
+# text = Pebe mudou a família para Nashville, Tennessee, em 1991, depois de conseguir um novo negócio editorial como compositora.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01147018
+# text = Kesha e Pebe escreveram a canção "Stephen" juntos quando Kesha tinha 16 anos, Kesha então localizou David Gamson, um produtor que ela admirava, dos Scritti Politti, que concordou em produzir a canção.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01147122
+# text = A partir de agosto de 2015, Kesha divulgou pouca informação sobre o seu terceiro álbum de estúdio.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w01148068
+# text = Desta vez, chegou até ele, mas ele se recusou a acreditar que ela não queria estar mais casada com ele.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01149002
+# text = Wright nasceu em Poole, Dorset, mas cresceu predominantemente em Wells, Somerset.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w01149077
+# text = Wright tem um irmão, Oscar, que é um artista de quadrinhos, contribuindo com roteiros, arte conceitual e imagens promocionais para os filmes de Edgar.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01149088
+# text = Wright é amigo do colega diretor Garth Jennings, e fez aparições nos seus filmes The Hitchhiker's Guide to the Galaxy e Son of Rambow (O Filho de Rambow).
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w01150044
+# text = As Grandes Potências não cumpriram os pedidos de reconhecimento da Albânia.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w01150045
+# text = No início da conferência de Londres, em dezembro de 1912, os embaixadores das seis Grandes Potências rejeitaram o plano para estabelecer uma Albânia independente.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01150046
+# text = Em vez disso, decidiram que a Albânia estaria sob suserania otomana, mas com um governo autônomo.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w01150047
+# text = Depois de ficar óbvio que o Império Otomano perderia toda a Macedônia e a sua ligação territorial com a Albânia, as Grandes Potências perceberam que tinham que mudar a sua decisão.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = w01150048
+# text = O Tratado de Londres, assinado a 30 de maio de 1913, dividiu uma parte significativa do território reivindicado pela Albânia, independentemente da sua constituição étnica, entre os aliados dos Balcãs, reduzindo o território da Albânia a suas regiões centrais.
+S|NP
+	None
+		S|NP
+			None
+				None
+
+# sent_id = n02002007
+# text = Os oficiais foram capazes de subjugar aquele de 53 anos de idade, durante o ato no domingo de manhã.
+S|NP
+	None
+		None
+
+# sent_id = n02004007
+# text = Rei Salaman substituiu o veterano político pelo diretor de supervisão financeira, Mohammed al-Jadaan.
+S|NP
+	None
+		None
+
+# sent_id = n02006006
+# text = Óleo, ouro ou produtos alimentares, tais como trigo, são recursos naturais nos quais investidores investem bilhões pelo mundo todo.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n02007010
+# text = Com 71 gols em 137 partidas, ele marcou um número recorde de gols para a Federação Alemã de Futebol (alemão: Deutscher Fußball-Bund, DFB).
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n02011003
+# text = Com a ajuda de dados do cartão de débito, a polícia de Essen está investigando quatro pessoas que cruzaram os braços e assistiram enquanto um aposentado morria em um banco.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n02011018
+# text = O porta-voz não eliminou a possibilidade de que outros também seriam investigados.
+S|NP
+	None
+		None
+
+# sent_id = n02016006
+# text = Porque a série 1 não é a mais antiga, muitos usuários conseguem economizar 100 Euros.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n02017008
+# text = A foto mostra, claramente, a estreita barra de toque do display sobre o teclado que havia sido antecipada em boatos.
+S|NP
+	None
+		None
+
+# sent_id = n02022015
+# text = Ninguém sabe de que maneira ambos dramaturgos teriam trabalhado juntos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n02024008
+# text = Um estudo sueco demonstrou que animais raramente pousam, se o fazem, depois do período de 2 meses de reprodução.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n02027007
+# text = De acordo com Parker, agentes do Serviço Secreto Russo estão ativos em grande número na Grã Bretanha.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n02027019
+# text = A Rússia anunciou a suspensão do contrato no início de outubro.
+S|NP
+	None
+		None
+
+# sent_id = n02027021
+# text = A lei traça um número de condições, que cumpridas podem trazer o acordo de volta em ação: os EUA teriam que retirar todas as suas tropas dos países que se uniram à OTAN depois de 2000, rescindir todas as sanções contra a Rússia, assim como, reembolsar os custos que foram incorridos como resultado das sanções.
+S|NP
+	None
+		None
+
+# sent_id = n02030005
+# text = É um processo político e eu decidi não estar presente, assim foi dito.
+NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n02031071
+# text = Se um empregado turco se demite, vem, então, o conselho do trabalho.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n02032022
+# text = Deste ponto de vista, estruturas ultrapassadas e uma elite convencida são as razões pelas quais o sistema de saúde, de educação e de comércio exterior dos EUA está em mau estado.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n02033063
+# text = Kühn só pode sacudir sua cabeça.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n02033113
+# text = O jornal "Die ZEIT" primeiramente investigou os negócios imobiliários sobre seus duvidosos fluxos de caixa e a ameaça de falência em julho.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n02034018
+# text = A hora das bruxas começa finalmente quando o teclado assustador é tocado, assim como no sucesso dos anos 60, Monster Mash.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n02036018
+# text = Von Beust justificou o aumento de custos como falta de planejamento detalhado.
+S|NP
+	None
+		None
+
+# sent_id = n02038007
+# text = Simon Krätschmer tateia sozinho pelo quartel delapidado e sinistro.
+S|NP
+	None
+		None
+
+# sent_id = n02040023
+# text = Isso é porque todo e cada milagre e cada região especializada ocupa um campo inteiro.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n02041014
+# text = A produção do modelo do smartphone foi completamente descontinuada.
+S
+	None
+		None
+			None
+
+# sent_id = n02042005
+# text = Era 30 de agosto de 2015, quando um exército de patos conquistou a Internet.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n02042026
+# text = A geração de smartphone recebeu um app que merecia, no qual, na melhor das hipóteses, a situação mais ridícula obteve uma audiência de milhões.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n02042028
+# text = Por outro lado, Vine virou arte em seis segundos.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n02043008
+# text = E agora ele também é campeão mundial.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n02044008
+# text = Para Kerber, o final da temporada, contudo, marca o fim de um ano inacreditável.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n02044009
+# text = Depois da sensação do Aberto da Austrália, a jogadora de 28 anos perdeu pela primeira vez na partida final contra Serena Williams.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n02046037
+# text = Agora é somente incerto em qual deles.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n02048002
+# text = Você discute com seu alarme?
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n02050052
+# text = Está claro: Homens poderiam ter mais responsabilidade em questões de contracepção.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n02052023
+# text = De acordo com a crença Cristã, um túmulo que foi embutido na pedra foi o último lugar de descanso de Jesus.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n02056019
+# text = A razão para anunciar o vídeo na Alemanha não é clara.
+S|NP
+	None
+		S|NP
+			None
+
+# sent_id = n02058056
+# text = Os oficiais me pediram, em suas maneiras inimitáveis, se eu conhecia o escritor Günter de Bruyn e se nós somos familiares intelectuais.
+S|NP
+	None
+		None
+
+# sent_id = n02066010
+# text = O investigador canadense do acidente de avião, Larry Vance, contou ao SPIEGEL que ele está convencido de que um dos pilotos tentou aterrissar a aeronave na superfície oceânica - desta maneira iria afundar.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n02066011
+# text = Os especialistas australianos tiraram novas conclusões das investigações de uma flap de pouso da Boeing que havia sido trazida pelas correntes na Tanzânia, na África oriental.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n02068010
+# text = A questão pode não ter acabado para Barroso.
+S|NP
+	None
+		None
+
+# sent_id = n02068015
+# text = A troca de Barrosos causou um grande rebuliço.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n02069039
+# text = As atuais detenções foram "uma continuação das trapaças contra nós", disse Dündar.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n02073024
+# text = Por enquanto, o acordo entre Aoun e Hariri aproximou as duas facções inimigas.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n02074009
+# text = O marido de Hillary Clinton, a atual candidata à Casa Branca, perdoou um grande número de pessoas, incluindo também Rich, em seu último dia na presidência, em 20 de janeiro de 2001.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n02075020
+# text = Dündar avisou a Europa sobre ser muito tolerante em relação aos trâmites de Erdogan.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n02076003
+# text = Adnan Z. Amin, Diretor Geral da Agência Internacional de Energias Renováveis (IRENA) está seguro: "Energia eólica offshore pode se tornar a maior geradora de energia, em uma economia global, que é livre de energia a base de carvão."
+S|NP
+	None
+		None
+			None
+
+# sent_id = n02078004
+# text = Os bons números na Ásia rapidamente levantaram os mercados de ações.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n02078011
+# text = São esperados um impacto do mercado imobiliário em crescimento e aumento de gastos federais.
+S
+	None
+		None
+
+# sent_id = n02079042
+# text = As duas pinturas em exibição de Lucas Cranach, o Velho, são especialmente chamativas.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n02081019
+# text = Porém os sinais irritantes não desaparecerão por completo: De acordo com informações da agência de notícias dpa, eles só serão ativados se, por exemplo, o artista ou gravadora não for um membro da GEMA e não tiver nenhum contrato com YouTube.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n02082017
+# text = Os poluentes não somente atacam os pulmões subdesenvolvidos dos pequenos, eles também podem levar a danos de longo prazo no desenvolvimento do cérebro do adolescente.
+S|NP
+	None
+		None
+
+# sent_id = n02083054
+# text = Não é de se admirar que os Governos Federal e Estadual classificaram o Patrimônio Natural Nacional como uma iniciativa nacional da mais alta prioridade e documentaram seu início em 2005, em um contrato de coalizão.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = n03001007
+# text = Ao contrário daquela de 28 de outubro, a carta do Sr. Comey mal foi comentada.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = n03001019
+# text = Se a adversária democrata for eleita, ele garantiu que ela "sofrerá anos de investigações".
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n03001023
+# text = Se alguém não sabe lidar com uma conta do Twitter, eles não sabem lidar com códigos nucleares, Obama brincou.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+
+# sent_id = n03001030
+# text = De acordo com o programa, ela falará às 23.45.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n03002003
+# text = Na terça-feira, os Estados Unidos da América poderão eleger a primeira presidente mulher de sua história.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n03002010
+# text = Por outro lado, as relações da Sra. Clinton com o continente nos últimos vinte anos deixam muito a desejar.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n03003025
+# text = Os conservadores islâmicos do AKP consideraram essa recusa como justificativa para os questionamentos.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n03003036
+# text = A maioria de terceiros é necessária, especificamente os votos de 367 membros do parlamento (de 550), já que 330 votos são necessários para desencadear um referendo.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n03004003
+# text = Na quinta-feira, 3 de novembro, o prefeito de Saint-Gaudens (na região de Haute-Garonne) decidiu suspender o acordo de desenvolvimento urbano com o governo formado em 2014.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n03005007
+# text = O último está supervisionando as eleições primárias republicanas, nas quais Rachida Dati suporta a candidatura de Nicolas Sarkozy.
+S|NP
+	None
+		None
+
+# sent_id = n03005025
+# text = Na mensagem, o ex-ministro da Justiça acusou Brice Hortefeux de ser um "fascista", "Ministro (idiota) do Interior" e um "bandido".
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n03006003
+# text = Quais são os limites que podem inibir a expressão de crenças religiosas em empresas privadas?
+S
+	None
+		None
+
+# sent_id = n03006008
+# text = Mesmo se a maioria das situações que surgem no ambiente de trabalho pudessem ser resolvidas sem conflito.
+S
+	None
+		None
+
+# sent_id = n03006016
+# text = É permitido a empregados manter objetos religiosos em suas mesas?
+S
+	None
+		None
+			None
+
+# sent_id = n03006028
+# text = A União da Force Ouvrière arrepende-se de seu comentário sobre o conteúdo do guia não ter sido incluído: "Realmente, não houve nenhuma consulta", disse Sra. Gillard.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n03006034
+# text = O guia é problemático, primeiramente porque foi desenvolvido "no contexto de um estado de emergência".
+S|NP
+	None
+		None
+
+# sent_id = n03007003
+# text = Esta cláusula incluiu o tempo tomado para viajar até as casas dos clientes durante horas de trabalho.
+S|NP
+	None
+		None
+
+# sent_id = n03007006
+# text = As duas organizações lançaram um recurso que foi recusado pelo Tribunal de Cassação em 12 de outubro.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n03007009
+# text = Visa levar em consideração o tempo de jornada depois de deduzi-lo das horas de trabalho realmente concluídas, sem ser capaz de medir o tempo real da jornada.
+S
+	None
+		S|NP
+			None
+				None
+					None
+						None
+
+# sent_id = n03007011
+# text = O tempo de trabalho nesta primeira hora é mais ou menos igual a 45 minutos.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n03008011
+# text = ETA está de saída, o contigente Francês revelou.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n03009006
+# text = Ele também comentou que "a existência de tal documento poderá levar a consequências que são, provavelmente, inaceitáveis."
+S|NP
+	None
+		None
+
+# sent_id = n03009011
+# text = O Conselho Digital Francês, o qual assessora projetos de acordo com questões de tecnologia digital, também o poderá escrutinar.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n03010012
+# text = De acordo com o Le Figaro, este plano do governo poderá liberar até 42 milhões de Euros, dos quais 15.5 milhões serão direcionados à Seguranca.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n03010019
+# text = A França não tem uma boa reputação.
+S|NP
+	None
+		None
+
+# sent_id = n04001002
+# text = Tina Anselmi nasceu em 25 de março, 1927 em Castelfranco Veneto; ela cresceu em uma família católica anti-fascista, a qual foi marcada por perseguições ao seu pai militante socialista.
+S|NP
+	None
+		None
+
+# sent_id = n04001013
+# text = Tendo sempre sido próxima da União Católica, Tina Anselmi ocupava-se particularmente dos direitos dos trabalhadores têxteis e professores.
+S|NP
+	None
+		None
+			None
+				S|NP
+					None
+						None
+							None
+								None
+									None
+										None
+											None
+												None
+
+# sent_id = n04002020
+# text = É difícil pensar que a Itália tem menos km de linhas subterrâneas que Madri.
+S|NP
+	None
+		None
+			S|NP
+				None
+					None
+						None
+
+# sent_id = n04002027
+# text = Foi reinforçado que nós absolutamente não podemos continuar com aqueles que são completamente contra a Itália.
+S
+	None
+		None
+
+# sent_id = n04002029
+# text = Nós iremos avaliar se e como continuar para a proxima seção .
+S|NP
+	None
+		None
+			None
+
+# sent_id = n04003043
+# text = A música de sucesso é "Geronimo" por Sheppard.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n04005003
+# text = Aqueles de idade serão oferecidos pelo Estado 500 Euros para gastar até 31 de dezembro 2017.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n04005016
+# text = Um voucher é gerado e pode ser salvo no seu smartphone ou apresentado no caixa.
+S
+	None
+		None
+
+# sent_id = n04006003
+# text = A partir de 1º de janeiro, haverá aumento na gasolina e no diesel.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = n04006004
+# text = O mestre do CGI declarou em uma nota que não haverá aumento na taxa VAT, ao menos para 2017.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n04006010
+# text = Um nível que, em ambos os casos, está no topo da UE.
+NP
+	None
+		None
+
+# sent_id = n04006014
+# text = Os últimos números dizem respeito a 24 de Outubro do ano passado e nos dizem que nosso diesel custa 1.335 Euros por litro comparado com a média da zona Europeia de 1.165 Euros.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n04006016
+# text = Um custo significativamente alto, que claramente excede a média dos países que adotam a moeda única, a qual equivale a 1.365 Euros por litro.
+NP
+	None
+		None
+			None
+				None
+
+# sent_id = n04007002
+# text = Corrado Passera retira a proposta para membros do Parlamento devido a "atitude de total fechamento que os bancos nos demonstraram".
+S|NP
+	None
+		None
+
+# sent_id = n04007015
+# text = Como afirmado, a decisão é a prerrogativa de ECB e iria parecer inapropriado para o Banco falar em seu próprio nome, excluindo a possibilidade de avaliar outras alternativas.
+S
+	None
+		None
+			None
+
+# sent_id = n04007018
+# text = Isso é o que foi escrito em uma nota para membros do Parlamento depois da decisão do ex-ministro de deixar o partido.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n04007023
+# text = Será avaliado.
+S
+	None
+
+# sent_id = n04008007
+# text = Estudantes da Universidade LUISS foram informados durante uma reunião que aconteceu em Roma.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n04008016
+# text = Esta manhã, o Papa Francisco se reuniu com Mark Zuckerberg e sua mulher na Casa Santa Marta.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n04009002
+# text = Quatro estudantes da Universidade Roma Tre desenvolveram um capacete de motocicletas que pode "ler pensamentos", ajudando a antecipar as ações dos motoristas.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n04009003
+# text = Um dos exemplos de pesquisa aplicada sob condições seguras também produziu um robô humanoide que compete com Valentino Rossi.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n04010006
+# text = Em retorno, Uber receberá um investimento de um bilhão de Dólares e uma cadeira na comissão de diretores da empresa chinesa.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n04010016
+# text = Cada vez mais as empresas de tecnologia estão dando as cartas; mais do que nunca em Wall Street, ainda mais que em Silicon Valley.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n04010017
+# text = A Amazon se tornou a quarta empresa Americana com a maior capitalização de mercado, ultrapassando ExxonMobil.
+S|NP
+	None
+		None
+
+# sent_id = n04010021
+# text = Líderes de empresas como Spotify, Tesla, Uber e Snapchat irão comparecer a um evento privado da cúpula de Mountain View.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = n05001005
+# text = A presidente da Comunidade de Madrid, Cristina Cifuentes, representa os mais conservadores, enquanto líderes do partido, como o Subsecretário Setorial Javier Maroto, representa os mais progressivos.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n05001008
+# text = Durán atua como porta-voz e Ángel Pintado como ministro da fazenda.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n05002004
+# text = Pela primeira vez nos últimos seis anos, a taxa de desemprego caiu abaixo de 20% e já há 600.000 pessoas a mais empregadas do que um ano atrás.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n05002015
+# text = É gerenciamento, porém, não foi isento de críticas.
+NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n05002017
+# text = As uniões têm sido muito combativas e em várias ocasiões exigiram a anulação da legislação que a Fátima Báñez mais se orgulha.
+S|NP
+	None
+		None
+
+# sent_id = n05002020
+# text = Este departamento agora encara novos desafios.
+S|NP
+	None
+		None
+
+# sent_id = n05002023
+# text = Além disso, o governo terá que lidar com outra "batata quente".
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = n05003006
+# text = O ministro da Defesa permitiu que ela permanecesse como Secretária Geral do partido no momento.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n05003010
+# text = As fontes consultadas afirmaram que é "100% Cospedal".
+S|NP
+	None
+		None
+			None
+
+# sent_id = n05003019
+# text = Apesar deles, nem todos no partido entenderam as mensagens que o presidente tentou enviar para eles ontem.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n05003022
+# text = Barón de Claret, o único no governo com um título nobre.
+NP
+	None
+		None
+			None
+
+# sent_id = n05004020
+# text = Pedro Sánchez, assim como vários outros socialistas, afirmou no programa Évole que a Espanha é uma nação de nações.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n05004025
+# text = E sobre as partes em relação a quê, a direitos históricos?
+S
+	None
+		None
+
+# sent_id = n05005002
+# text = Federico Fellini uma vez disse: "O palhaço está para a humanidade assim como a sombra está para o homem."
+S|NP
+	None
+
+# sent_id = n05005016
+# text = Ele fica de pé em frente ao público e, basicamente, ele tem que dar o seu melhor para fazer a audiencia rir.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n05006002
+# text = Em filmes de guerra ou cowboys e filmes indianos, batalhes, lutas e surras eram de outro mundo.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = n05006013
+# text = Ênfase, leve ironia, insinuações brutas e outras técnicas verbais bem usadas têm lugar na oratória parlamentar, porém mexer um com o outro e comédia de pancadaria não
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = n05007006
+# text = Ele acredita que ninguém esperando a gente espera a gente.
+S|NP
+	None
+		None
+			None
+				None
+					S|NP
+						None
+							None
+
+# sent_id = n05007014
+# text = Talvez seja por isso que o aumento de lágrimas obscureceu as pupilas dele, enquanto a sílaba do tempo descobriu sua colheita e rendeu seu mistério para as águas certas.
+S
+	None
+		None
+			None
+
+# sent_id = n05007025
+# text = E eles devem ser recebidos de espírito aberto e mente clara, pois eles formam a nova geração de beleza e esperança.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n05008012
+# text = Como resultado, Trump não está muito preocupado sobre o voto latino americano em um nível nacional.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n05008018
+# text = A votação antecipada sugere que desta vez os latino americanos votarão em grande número, mas é incerto se o aumento terá um impacto.
+S|NP
+	None
+		None
+			None
+
+# sent_id = n05009025
+# text = Haverá protestos e outras coisas, já está tudo planejado, a oposição reportou ao El Mundo.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n05009030
+# text = Dezenas de seguidores da FSLN já estão comemorando a vitória na Plaza de las Victorias.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = n05010004
+# text = May recebeu grandes críticas por evitar e não responder abertamente à mídia depois da votação judicial do Brexit.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w02001041
+# text = Fundado em 1925 como jogos para todos, o teatro ao ar livre na escadaria em frente a St. Michael, ainda atrai um público diverso.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w02001069
+# text = A consagração festiva aconteceu em 30 de abril de 1955.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w02002032
+# text = Em 1882, um sistema telegráfico equipado com 34 sinais de alarme de incêndio foi colocado em operação.
+S
+	None
+		None
+			None
+
+# sent_id = w02002093
+# text = Em 1992, áreas do antigo teatro de marionetes, o qual havia sido deixado para a comunidade, foi tomado por jogadores e empregados.
+S
+	None
+		None
+			None
+
+# sent_id = w02002120
+# text = Isso tem a ver com um dos poucos prédios no centro da cidade que foram salvos de destruição ao final da Segunda Guerra Mundial.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+											None
+
+# sent_id = w02003037
+# text = Em 1832, o antigo claustro foi vendido para o fabricante Georg Reichenbach pelo estado de Württemberg com a estipulação de estabelecer uma fábrica de algodão ali.
+S
+	None
+		None
+			None
+
+# sent_id = w02003070
+# text = Os cidadãos islâmicos que se estabeleceram desde o começo dos anos 60 emigraram principalmente da Turquia.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w02004008
+# text = Entre eles está o antigo claustro da abadia da igreja de São Pedro e Paulo.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w02004021
+# text = A histórica prefeitura de Obermarsberg é originada do século XIII e foi renovada depois da Guerra dos Trinta Anos.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w02004065
+# text = Há diferentes teorias sobre as razões para deixar o lugar.
+S
+	None
+		None
+			None
+
+# sent_id = w02005026
+# text = O Parque Golden Gate, que tem quatro quilômetros de comprimento, oferece um jardim botânico, planetário, jardim japonês e um aquário.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w02005027
+# text = Serve como um lugar para descanso e relaxamento para moradores de São Francisco.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w02005028
+# text = O Jardim Yerba Buena foi construído no começo dos anos 90, no teto do Centro de Convenções Moscone North.
+S
+	None
+		None
+			None
+
+# sent_id = w02005029
+# text = Possui um monumento a Martin Luther King Jr.
+S
+	None
+		None
+			None
+
+# sent_id = w02006036
+# text = Desde a década de 60, a economia da cidade tem estado em declínio acentuado.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w02006081
+# text = Durante as eleições gerais de 2010, o Partido Trabalhista foi capaz de vencer todos os sete distritos eleitorais.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w02007008
+# text = Ambos, tempo e sequência de eventos do acidente, foram vigorosamente discutidos.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+										None
+											None
+
+# sent_id = w02007032
+# text = Em abril de 2012, o Ministro-presidente da Turquia, Erdogan, anunciou seus projetos de governo para libertar o Bósforo através da construção do Canal de Istambul paralelo a ele.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w02007061
+# text = Os Otomanos queriam prevenir grãos de serem transportados adiante, porque eles tinham uma grande necessidade deles.
+S|NP
+	None
+		None
+
+# sent_id = w02007074
+# text = O Império Otomano e a Rússia tiveram permissão negada para manter suas frotas de guerra no Mar Negro.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w02008010
+# text = Em seu âmbito, pertence às culturas mais avançadas daquele tempo, nos quais muitos locais são conhecidos.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w02008028
+# text = Assim como a maioria dos locais do sul europeu, as descobertas datam do início do século V a.C.
+S|NP
+	None
+		None
+
+# sent_id = w02008038
+# text = Provavelmente, a pessoa mais famosa do período da Idade do Cobre é Ötzi, a múmia congelada que viveu durante os anos 3300 a.C.
+S
+	None
+
+# sent_id = w02008055
+# text = Eles estavam principalmente em montanhas.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w02008065
+# text = Além disso, este processo de dourar cobre é tecnologicamente digno de atenção.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w02009002
+# text = A severidade e a presença da revolução no campo alarmou a Corte e a Assembléia Nacional em Versalhes.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w02009025
+# text = O evento era conhecido em Paris e causou mais aborrecimento em um estado de espírito que já estava afetado pelos aumentos persistentes do preço do pão e pela falta de suprimento.
+S
+	None
+		None
+
+# sent_id = w02009087
+# text = O rei não tomou precauções especiais durante sua fuga e foi reconhecido múltiplas vezes durante suas estadias.
+S|NP
+	None
+		None
+
+# sent_id = w02011012
+# text = O hino foi bem recebido e o público pediu bis.
+S
+	None
+		None
+
+# sent_id = w02011029
+# text = Eu declaro o fim dos primeiros Jogos Olímpicos Internacionais.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w02012042
+# text = A Primeira Guerra Mundial trouxe mudanças e novos desenvolvimentos na política colonial.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w02013015
+# text = A Revolução Industrial aconteceu antes na Grã Bretanha do que em qualquer outro país.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w02013033
+# text = A Crise de Suez mostrou os limites dos antigos poderes coloniais, tais como Grã Bretanha e França, em um mundo em mutação.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w02013076
+# text = Depois da tomada de poder pelos Nacionais Socialistas em 1933, houve dispersas tentativas de ganhar antigas colônias de volta.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w02013093
+# text = Depois da Revolução Russa em 1917, alguns países, como a Finlândia, Polônia e os Estados Bálticos conquistaram suas independências.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w02014013
+# text = Um dos seus últimos meios de colocar pressão na Hungria foi ameaçar a imposição de eleições gerais e livres.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w02014030
+# text = Depois do Compromisso, o Imperador e Rei Francisco José I tomou muito cuidado para lidar com ambas monarquias igualmente.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w02015084
+# text = O claustro de Disibodenberg foi dissolvido e caiu aos pedaços como resultado da Reforma.
+S
+	None
+		None
+			None
+
+# sent_id = w02015085
+# text = Atualmente, muitas ruínas podem ser vistas lá.
+S
+	None
+		None
+
+# sent_id = w02015086
+# text = O claustro de Rupertsberg foi destruído durante a Guerra dos Trinta anos em 1632 por tropas suecas.
+S
+	None
+		None
+			None
+
+# sent_id = w02015087
+# text = As irmãs desalojadas foram movidas para o claustro de Eibingen.
+S
+	None
+		None
+			None
+
+# sent_id = w02015088
+# text = As ruínas mais tarde foram enterradas.
+S
+	None
+		None
+
+# sent_id = w02016015
+# text = Depois desses sucessos, ele assinou um contrato com Team Telekom e se mudou com sua namorada em Merdingen em Südbaden, onde ele morou até 2002.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w02016060
+# text = Nos Jogos Olímpicos de 2004 em Atenas, Ulrich, como vencedor da corrida de rua, perseguiu a meta de ganhar sua segunda medalha de ouro.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w02017046
+# text = A censura descartou todas as opções indesejadas; participação em vida pública tinha se tornado praticamente impossível.
+S|NP
+	None
+		None
+
+# sent_id = w02017061
+# text = Os traços de sangue no pano estavam no formato que foram reportados pelo relatório de notícias no dia do assassinato.
+S
+	None
+		None
+			None
+
+# sent_id = w02018030
+# text = Weiss foi honrado com prêmios de literatura de cidades como Colônia e Bremen.
+S
+	None
+		None
+			None
+
+# sent_id = w02019048
+# text = De forma privada assim como pública, Springer vigorosamente procurou reconciliação com o povo Judeu e fez várias viagens a Israel.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w02019077
+# text = O chalé queimou completamente.
+S|NP
+	None
+		None
+
+# sent_id = w02019085
+# text = No ano seguinte, 1977, ele recebeu a distinção da American Friendship Medal pela posição amigável de sua imprensa em relação aos EUA.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w03001037
+# text = Os distritos de Viguier e La Conte, onde a população é praticamente formada de imigrantes ou de origem de imigrantes, contêm a maioria das casas sociais da cidade.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w03001058
+# text = A história de Carcassone está diretamente ligada àquela de sua cidade fortificada.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w03002048
+# text = No início dos anos 2000, havia cinco médicos para cada 100.000 habitantes.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w03002055
+# text = Anistia Internacional cita artigos de jornais de 2008 descrevendo o assassinato de cinquenta pessoas acusadas de bruxaria.
+S|NP
+	None
+		None
+
+# sent_id = w03003023
+# text = Von Bellingshausen avistou a Antártica em 27 de Janeiro de 1820; três dias antes, Bransfield avistava terra e dez meses antes, Palmer fez o mesmo em Novembro de 1820.
+S|NP
+	None
+		None
+
+# sent_id = w03003039
+# text = Na expedição Endurance, em 1914, o navio britânico Endurance comandado por Sr. Ernest Schackleton navegou com vinte e oito homens para cruzar o Atlântico.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w03004037
+# text = Esta elaboração foi o ato fundador da lei Romana, das instituições da República Romana e do mos maiorum.
+S
+	None
+		None
+
+# sent_id = w03004107
+# text = Porém, Pyrrhus foi forçado a deixar a Sicília para tratar de negócios no sul da Itália.
+S
+	None
+		None
+
+# sent_id = w03005012
+# text = No século VIII a.C., a Grécia começou a emergir da Idade das Trevas, a qual seguiu a queda da civilização Micênica.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w03005013
+# text = A alfabetização foi perdida e o texto Micênico esquecido, mas os gregos adotaram o alfabeto fenício, o modificando para criar o alfabeto grego.
+S
+	None
+		None
+
+# sent_id = w03005014
+# text = A partir do século IX a.C., os primeiros textos gregos começaram a surgir.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w03005015
+# text = A Grécia foi dividida em diversas pequenas comunidades auto-governadas; um padrão, em grande parte, ditado pela geografia grega: cada ilha, vale e planície é isolada de seus vizinhos pelo mar ou por cadeias de montanhas.
+S
+	None
+		None
+
+# sent_id = w03005016
+# text = A partir, aproximadamente, do século VIII a.C., cidades-estado começaram a surgir: pequenos territórios auto-governados com seus próprios sistemas políticos.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w03006024
+# text = Na Idade Média, a maioria dos cristãos não tinha acesso à Bíblia em sua língua nativa.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w03007008
+# text = Porém, eles não expandiram até que navios grandes o suficiente para cruzar os mares fossem contruídos.
+S|NP
+	None
+		None
+
+# sent_id = w03007039
+# text = Comércio foi desenvolvido através do estabelecimento de postos comerciais avançados pelo Mediterrâneo, uma técnica que ainda não havia sido utilizada.
+S
+	None
+		None
+			None
+
+# sent_id = w03008011
+# text = Esta questão pode ser vista como o ponto de partida para a carreira dele como um radical revolucionário.
+S
+	None
+		None
+
+# sent_id = w03008029
+# text = No ano Pluviose III (Janeiro-Fevereiro, 1794), aliviando a pressão do Reinado de Terror, ele tomou várias providências para libertar os suspeitos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w03009029
+# text = Financiado completamente com dinheiro do próprio Bernard Tapie, essas escolas fecharam em 1994, quando ele foi declarado falido.
+S|NP
+	None
+		S|NP
+			None
+				None
+					None
+
+# sent_id = w03009044
+# text = Apesar de ser o número um em distribuição de equipamentos e tecidos pelo mundo, a empresa alemã estava com problemas financeiros.
+S
+	None
+		None
+			None
+
+# sent_id = w03010096
+# text = Para ficar longe de tudo, os Remis residiram na Suíça pela maior parte do verão de 1947.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w03010097
+# text = Ao retornar, eles consideraram a ideia de morar na América do Sul, longe dos problemas da Bélgica pós-guerra.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w03010098
+# text = Na primavera de 1948, com esperanças de adaptar Tintin para o cinema, o artista Belga escreveu uma carta para Walt Disney pedindo, em vão, pelo seu suporte.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w03010099
+# text = No verão, Georges e sua esposa retornaram à Suíça acompanhados de Rosane, a filha de 18 anos de uma das amigas de Germaine.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w03010100
+# text = Durante as férias, ele começou um caso extra-conjugal com uma garota nova, o que ele confessou logo depois.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w04001027
+# text = Na parte de baixo há três palmeiras com vista para o mar, o que representa o amor que as pessoas da vila sentem pela sua terra.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w04001037
+# text = Além disso, é possível a ocorrência de furacões na ilha durante o verão.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w04001053
+# text = As ilhas estão localizadas na placa Indo-Australiana; a placa surgiu devido a colisão das placas Indianas e Australianas.
+S|NP
+	None
+		None
+
+# sent_id = w04002008
+# text = Um fator que suporta esta hipótese seria a pecuária intensiva de cavalos que ocorre em Villa Pelucca, em Sesto San Giovanni.
+S
+	None
+		None
+			None
+
+# sent_id = w04002048
+# text = Em 1928, um campo de golfe de 90 hectares foi construído na parte nordeste do parque, próximo à pista de corrida.
+S
+	None
+		None
+			None
+
+# sent_id = w04002055
+# text = Em 1976, o Hipódromo não era mais utilizado; em 1990 um incêndio destruiu o que restava das arquibancadas de madeira, as quais, mais tarde, foram destruídas com os estábulos.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w04003025
+# text = Em agosto de 1969, o Papa Paulo VI removeu a pena de morte da lei do Vaticano e a revogou de todas as infrações.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w04003054
+# text = A emissão de moeda é predominantemente numismática por natureza e tem a intenção de ser vendida, principalmente, para colecionadores.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w04004005
+# text = A área interna da região é plana e montanhosa, sem distinção clara entre uma área e a próxima.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w04004045
+# text = Há muitos artefatos pré-históricos, incluindo vários menires e dólmens diferentes.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w04004051
+# text = A segunda Apúlia e Região Real Calabresa foram então estabelecidas, também incluindo Samnium, partes de Molise e da Basilicata oriental.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w04004059
+# text = Durante o século treze, o nome Apúlia foi utilizado por alguns autores para significar a parte sudoeste da península italiana.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w04006023
+# text = O historiador David Crouch sugere que Stephen abandonou o desafio por volta deste horário para focar em outras questões.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w04006065
+# text = Somente um punhado deles (condados) existiram sob Henrique I e estes foram, em grande parte, simbólicos.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w04007006
+# text = Durante a guerra da Primeira Coalizão, depois da Revolução Francesa, rapidamente luz começou a iluminar o jovem oficial artilheiro da Córsega: Napoleão Bonaparte.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w04007021
+# text = Embora não solucionadora do conflito, a vitória francesa na Batalha de Marengo forçou os austríacos a desistir da Itália pela segunda vez.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w04007037
+# text = O bloqueio da frota de Villeneuve resultou na desistência dos planos de invasão das ilhas britânicas, também porque novos desenvolvimentos estavam acontecendo no continente.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w04007049
+# text = Napoleão estava confiante que o sucesso evidente de Austerlitz poderia levar a um tratado geral de paz, porém suas esperanças foram logo frustradas.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+									None
+
+# sent_id = w04008006
+# text = De acordo com práticas religiosas, Fiorello foi educado na Igreja Episcopal e permaneceu um membro da Igreja Protestante durante toda sua vida.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w04009042
+# text = O homem disse a ele que uma guerra entre os dois universos está a caminho, assim como ele e Walter haviam predito; é por esta razão que Olívia, entre outros, foi treinada enquanto criança.
+S|NP
+	None
+		None
+
+# sent_id = w04010027
+# text = Ambos estudantes de Goffredo Petrassi, Ennio Morricone e Bruno Nicolai se conheceram no conservatório em Santa Cecelia.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w04010028
+# text = Entre eles aflorou uma relação longa e amigável que durou por anos.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w04010029
+# text = Nicolai colabora em várias trilhas cinematográficas feitas por Morricone como Metti; uma noite ao jantar; algumas delas foram escritas pelos dois juntos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
+# sent_id = w04010030
+# text = Porém, a amizade desmoronou-se devido a colaborações não oficiais entre os dois, o que causou disputas legais.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w04010031
+# text = Durante as várias colaborações deles, não é claro quem, entre os dois, concebeu algumas das soluções estilísticas nos arranjos que, mais tarde, caracterizariam o estilo de ambos artistas.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w05001026
+# text = No século XX, entre 1904 e 1914, Antonio Gaudí promoveu uma reforma que durou dez anos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w05001036
+# text = Há três capelas paralelas na abside e várias capelas laterais entre as vigas.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w05001045
+# text = A tradição diz que o tema foi selecionado intencionalmente por causa do grande número de judeus convertidos que moravam em Palma.
+S|NP
+	None
+		None
+
+# sent_id = w05002014
+# text = Antes dos Andes serem formados, a margem oeste da América do Sul já havia sido o local de várias orogêneses.
+S
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w05002032
+# text = Os Andes centrais pertencem ao chamado "Andes de tipo andino", os quais foram formados pela subdução da crosta oceânica.
+S|NP
+	None
+		None
+			None
+
+# sent_id = w05003012
+# text = No entanto, a divisão entre ele e Linares e a descontinuação da linha progressiva provocaram a Revolução da Vindicação que o derrubou em 1879.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w05003050
+# text = Em sua administração, o voto feminino foi aprovado, partidos políticos legalizados, todos os exilados tiveram permissão para retornar e o restante dos prisioneiros políticos foram libertados.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w05003119
+# text = O colapso de e intervenção em dezenas de bancos levaram à fuga de capital causando falência de negócios.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w05004031
+# text = É a porção desta segunda fronteira até o limite exterior, a linha imaginária que conecta o monumento do farol de Punta del Este até o monumento do farol de Punta Rasa.
+NP
+	None
+		None
+			None
+				None
+
+# sent_id = w05005083
+# text = As coisas começaram a mudar em outubro de 1777, quando forças britânicas sob o comando do General John Burgoyne se renderam em Saratoga, no norte do estado de Nova Iorque.
+S|NP
+	None
+		None
+
+# sent_id = w05005084
+# text = Foi o sopro de misericórdia e encorajamento que os colonizadores precisavam para conquistar sua independência.
+NP
+	None
+		None
+			None
+				None
+
+# sent_id = w05005085
+# text = Índios chegaram do Canadá liderados por Joseph Brant; eles apoiaram os britânicos porque os colonizadores estavam expropriando mais e mais suas terras.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w05005086
+# text = A expedição foi liderada pelo General Joseph Burgoyne, quem visava alcançar Albany.
+S
+	None
+		None
+
+# sent_id = w05005087
+# text = No entanto, eles foram interceptados e tiveram que lutar em Freeman, perto do rio Hudson.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w05006024
+# text = O espanhol do Século de Ouro ou espanhol do início da Idade Moderna é uma variação da língua que constitui a transição do espanhol medieval para o espanhol moderno.
+S
+	None
+		None
+			None
+				None
+
+# sent_id = w05006058
+# text = Por outro lado, história externa contém referências da história dos falantes do espanhol, suas vicissitudes históricas e o uso social da língua.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w05007004
+# text = No entanto, se a lei inglesa tivesse sido aceita, as filhas de Luíz X, Felipe V e Carlos IV teriam mais direito a reinvindicar o trono, acima de Isabella da França, tia delas.
+S|NP
+	None
+		None
+			None
+				None
+
+# sent_id = w05007080
+# text = As tentativas de fazer as pazes finalmente terminaram na primavera de 1415 e Enrique decidiu executar seu plano: uma invasão a todo Reino da França.
+S|NP
+	None
+		S|NP
+			None
+
+# sent_id = w05008107
+# text = Ele também discutiu a federalização da cidade de Buenos Aires, a extensão do código comercial e a nomeação de novos generais do exército.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+
+# sent_id = w05009044
+# text = Em 1976, ele se encontrou com um amigo que trabalhava em sua gravadora The Rocket Record Company, Kiki Dee, para gravar o que seria mais um notável sucesso para ele: "Don't Go Breaking My Heart".
+S|NP
+	None
+		None
+			None
+
+# sent_id = w05010023
+# text = Pompeu assumiu o comando de duas legiões em Capua e começou a arrecadar impostos ilegalmente, um ato que, como era previsível, tomou proveito dos cesarianos que eram a seu favor.
+S|NP
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w05010024
+# text = César foi pessoalmente informado das ações de Pompey por Curio, quem na época tinha terminado seu mandato.
+S
+	None
+		None
+			None
+				None
+					None
+
+# sent_id = w05010025
+# text = Enquanto isso, seu lugar na tribuna foi tomado por Marco Antonio, que ocupou a posição até dezembro.
+S
+	None
+		None
+			None
+
+# sent_id = w05010026
+# text = Mas quando o Senado lhe respondeu com autoridade, proibindo-lhe de competir no consulado geral e oferecendo-lhe a opção de ou retirar suas tropas ou se tornar um inimigo público, ele entendeu que qualquer alternativa que ele escolhesse, ele se entregaria desarmado nas mãos dos seus inimigos políticos.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+
+# sent_id = w05010027
+# text = Em 1.º de janeiro, 49 a.C., Marco Antônio leu uma declaração de César, na qual o pro-cônsul declarou-se um amigo da paz.
+S|NP
+	None
+		None
+			None
+				None
+					None
+						None
+							None
+								None
+
