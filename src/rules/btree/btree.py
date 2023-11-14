@@ -71,20 +71,17 @@ class BTree:
         if self.root == None: return string
 
         queue = [(self.root, 0)]
-        found = set()
 
         # Builds a string by this binary tree
         while queue:
             (node, height) = queue.pop(0)
             if node == None: continue
-            if node in found: continue
 
             # Builds the tree string
             string += ("\t"*height) + str(node.category) + "\n"
 
-            # Make sure this node won't be visited again and add its
-            # children to the queue.
-            found.add(node); queue = [(node.children[0], height+1), 
-                                      (node.children[1], height+1)]
-        
+            # Add the node's children to the stack.
+            queue = [(node.children[0], height+1), 
+                    (node.children[1], height+1)] + queue
+
         return string + "\n"

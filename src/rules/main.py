@@ -1,7 +1,7 @@
 from btree.btree import BTree
 from ccg_converter.ccg_converter import CCGConverter
-import sys, os
 from conllu import parse_tree
+import sys, os
 
 # === .BINARIZED FILES PARSING ===
 # Separate all sentences in a list of instances

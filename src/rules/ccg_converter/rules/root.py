@@ -12,13 +12,10 @@ CHLD_DEPREL = ["nsubj", "csubj", "expl"]
 
 class RootRule:
     def apply(self, dtree):
-        in_upos = dtree.token["upos"] in UPOS
-        chld_in_deprel = False
-
         for chld in dtree.children:
             if chld.token["deprel"] in CHLD_DEPREL:
-                chld_in_deprel = True
+                return "S"
 
-        if in_upos and not chld_in_deprel: return "NP"
-        if not in_upos and chld_in_deprel: return "S|NP"
-        return "S"
+        if dtree.token["upos"] in UPOS: return "NP"
+        else: return "S|NP"
+        

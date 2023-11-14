@@ -12,8 +12,7 @@ class ClausalCompRule:
         return "S|NP"
 
     def xcomp(self, node):
-        if node.upos in UPOS: return "NP"
-        return "S|NP"
+        return None
 
     def apply(self, node):
         if node.deprel == "ccomp": return self.ccomp(node)
