@@ -16,10 +16,15 @@
 
 class AdnoClauseRule:
     def acl_rule(self, node):
-        return "(NP|NP)|(S|NP)"
+        if node.children[0] != None and "nsubj" in node.children[0].deprel: return "S"
+        if node.children[1] != None and "nsubj" in node.children[1].deprel: return "S"
+
+        if node.children[0] != None and "csubj" in node.children[0].deprel: return "S"
+        if node.children[1] != None and "csubj" in node.children[1].deprel: return "S"
+        return "S|NP"
 
     def acl_rel_rule(self, node):
-        return "(NP|NP)|(S|NP)"
+        return None
 
     def apply(self, node):
         if node.deprel == "acl": return self.acl_rule(node)

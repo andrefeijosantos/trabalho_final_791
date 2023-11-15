@@ -46,7 +46,7 @@ class BTree:
         else:
             new_tree = new_tree.split(" ")
             upos, token = new_tree[0], " ".join(new_tree[1:])
-            nodes = Node(token=token, upos=upos)
+            nodes[pos] = Node(token=token, upos=upos)
             return
         
     # Given a string-represented tree, returns the present subtrees in this string

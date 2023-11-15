@@ -4,8 +4,10 @@
 # “《》” in Japanese, Chinese, and Korean). These punctuation marks are treated like 
 # normal constituents and carry standard CCG categories.
 
+PUNCTS = ['-', '--', '(', ')', '«', '»']
+
 class PunctRule:
     def apply(self, node):
-        if node.upos == "PUNCT" and (node.token != "-" and node.token not in "()" and node.token not in "«»"):
+        if node.upos == "PUNCT" and node.token not in PUNCTS:
             return node.token
         return None

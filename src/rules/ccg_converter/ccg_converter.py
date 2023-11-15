@@ -2,6 +2,7 @@
 from ccg_converter.rules.root import RootRule
 from ccg_converter.rules.np import NPRule
 from ccg_converter.rules.acl import AdnoClauseRule
+from ccg_converter.rules.advcl import AdvClauseRule
 from ccg_converter.rules.comp import ClausalCompRule
 from ccg_converter.rules.csubj import ClausalSubjRule
 from ccg_converter.rules.prataxis import PrataxisRule
@@ -11,7 +12,7 @@ class CCGConverter:
     def __init__(self):
         self.root_rule = RootRule()
         self.rules = [NPRule(), AdnoClauseRule(), ClausalCompRule(), ClausalSubjRule(), 
-                      PrataxisRule(), PunctRule()]
+                      PrataxisRule(), PunctRule(), AdvClauseRule()]
 
     def convert(self, btree):
         if btree.root == None: return btree
@@ -48,8 +49,6 @@ class CCGConverter:
             # Add the node's children to the queue.
             for child in node.children:
                 queue.append(child)
-
-        btree = self.category_inference(btree)
 
         return btree
 

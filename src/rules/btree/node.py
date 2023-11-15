@@ -1,5 +1,5 @@
 class Node:
-    def __init__(self, deprel=None, token=None, upos=None):
+    def __init__(self, deprel="", token="", upos=""):
         self.children = [None, None]
         self.parent = None
 
